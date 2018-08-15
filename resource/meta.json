@@ -1,0 +1,733 @@
+{
+  "trade": {
+    "margin": 0.25,
+    "updateInterval": 300,
+    "levelWeight": 15
+  },
+  "items": [
+    {
+      "id": 1,
+      "name": "정어리",
+      "type": 1,
+      "value": 0,
+      "grade": 1
+    },
+    {
+      "id": 2,
+      "name": "쥐돌이",
+      "type": 2,
+      "value": 0,
+      "grade": 1
+    },
+    {
+      "id": 3,
+      "name": "실뭉치",
+      "type": 2,
+      "value": 10,
+      "grade": 2
+    },
+    {
+      "id": 100,
+      "name": "[보조식품] 개다래 열매",
+      "type": 101,
+      "value": 1,
+      "grade": 1
+    },
+    {
+      "id": 101,
+      "name": "[보조식품] 캣닢",
+      "type": 101,
+      "value": 5,
+      "grade": 2
+    },
+    {
+      "id": 102,
+      "name": "[보조식품] 통조림",
+      "type": 101,
+      "value": 10,
+      "grade": 3
+    },
+    {
+      "id": 200,
+      "name": "[경묘] 쉴드용 고양이 부적 lv.1",
+      "type": 201,
+      "value": 1,
+      "grade": 1
+    },
+    {
+      "id": 210,
+      "name": "[경묘] 속업용 생선 lv.1",
+      "type": 202,
+      "value": 2,
+      "grade": 1
+    },
+    {
+      "id": 211,
+      "name": "[경묘] 속업용 생선 lv.2",
+      "type": 202,
+      "value": 4,
+      "grade": 2
+    },
+    {
+      "id": 220,
+      "name": "[경묘] 전방공격용 츄르 lv.1",
+      "type": 203,
+      "value": 2,
+      "grade": 1
+    },
+    {
+      "id": 221,
+      "name": "[경묘] 전방공격용 츄르 lv.2",
+      "type": 203,
+      "value": 4,
+      "grade": 1
+    },
+    {
+      "id": 230,
+      "name": "[경묘] 1등공격용 고양이의 초능력 lv.1",
+      "type": 204,
+      "value": 2,
+      "grade": 1
+    },
+    {
+      "id": 231,
+      "name": "[경묘] 1등공격용 고양이의 초능력 lv.2",
+      "type": 204,
+      "value": 4,
+      "grade": 2
+    },
+    {
+      "id": 232,
+      "name": "[경묘] 1등공격용 고양이의 초능력 lv.3",
+      "type": 204,
+      "value": 6,
+      "grade": 3
+    },
+    {
+      "id": 300,
+      "name": "[꾸미기] 토끼머리띠",
+      "type": 301,
+      "value": 1,
+      "grade": 1
+    },
+    {
+      "id": 301,
+      "name": "[꾸미기] 별머리띠",
+      "type": 301,
+      "value": 10,
+      "grade": 2
+    },
+    {
+      "id": 400,
+      "name": "[씨앗] 캣닢씨앗 lv.1",
+      "type": 400,
+      "value": 1,
+      "grade": 1
+    },
+    {
+      "id": 401,
+      "name": "[씨앗] 캣닢씨앗 lv.2",
+      "type": 400,
+      "value": 1,
+      "grade": 2
+    },
+    {
+      "id": 402,
+      "name": "[씨앗] 캣닢씨앗 lv.3",
+      "type": 400,
+      "value": 1,
+      "grade": 3
+    },
+    {
+      "id": 1000,
+      "name": "[도감] 나뭇가지",
+      "type": 1000,
+      "value": 0,
+      "grade": 1
+    },
+    {
+      "id": 1001,
+      "name": "[도감] 노랑나비",
+      "type": 1000,
+      "value": 0,
+      "grade": 1
+    },
+    {
+      "id": 1002,
+      "name": "[도감] 잠자리",
+      "type": 1000,
+      "value": 0,
+      "grade": 1
+    },
+    {
+      "id": 1003,
+      "name": "[도감] 할머니 신발한짝",
+      "type": 1000,
+      "value": 0,
+      "grade": 1
+    },
+    {
+      "id": 1004,
+      "name": "[도감] 죽은 쥐",
+      "type": 1000,
+      "value": 0,
+      "grade": 1
+    },
+    {
+      "id": 1100,
+      "name": "[도감] 18k 순금 반지",
+      "type": 1000,
+      "value": 0,
+      "grade": 2
+    },
+    {
+      "id": 1101,
+      "name": "[도감] 고양이 장화",
+      "type": 1000,
+      "value": 0,
+      "grade": 2
+    },
+    {
+      "id": 1200,
+      "name": "[도감] 외계인의 동전지갑",
+      "type": 1000,
+      "value": 0,
+      "grade": 3
+    }
+  ],
+  "farming": {
+    "extendFee": 200
+  },
+  "seed": [
+    {
+      "id": 400,
+      "name": "캣닢 씨앗 lv.1",
+      "farmProductId": 101,
+      "outputMax": 10,
+      "timeGrow": 15,
+      "cares": 1,
+      "maxOvertime": 60
+    },
+    {
+      "id": 401,
+      "name": "캣닢 씨앗 lv.2",
+      "farmProductId": 101,
+      "outputMax": 20,
+      "timeGrow": 30,
+      "cares": 2,
+      "maxOvertime": 90
+    },
+    {
+      "id": 402,
+      "name": "캣닢 씨앗 lv.3",
+      "farmProductId": 101,
+      "outputMax": 30,
+      "timeGrow": 60,
+      "cares": 3,
+      "maxOvertime": 180
+    }
+  ],
+  "race": [
+    {
+      "id": 1,
+      "title": "[범국민 애묘연합회 주관] 달려라 냥이들 경묘 대회",
+      "level": 1,
+      "length": 2000,
+      "fee": 200,
+      "rewards": [
+        {
+          "prize": 500,
+          "items": [
+            {
+              "id": 1004,
+              "quantity": 3
+            },
+            {
+              "id": 100,
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "prize": 400,
+          "items": [
+            {
+              "id": 1001,
+              "quantity": 3
+            },
+            {
+              "id": 100,
+              "quantity": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "[길고양이 연합회 주관] 인생 뭐있냥 경묘대회",
+      "level": 10,
+      "length": 3000,
+      "fee": 300,
+      "rewards": [
+        {
+          "prize": 700,
+          "items": [
+            {
+              "id": 1100,
+              "quantity": 3
+            },
+            {
+              "id": 100,
+              "quantity": 10
+            }
+          ]
+        },
+        {
+          "prize": 500,
+          "items": [
+            {
+              "id": 1001,
+              "quantity": 3
+            },
+            {
+              "id": 100,
+              "quantity": 8
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "training": [
+    {
+      "id": 1,
+      "name": "[기본 훈련] 쥐돌이 놀이",
+      "type": 0,
+      "level": 1,
+      "reward": {
+        "strength": 3,
+        "intelligence": 0,
+        "appeal": 0,
+        "point": 0,
+        "items": [
+          {
+            "id": 1,
+            "quantity": 10
+          },
+          {
+            "id": 2,
+            "quantity": 3
+          }
+        ]
+      },
+      "cost": {
+        "strength": 0,
+        "intelligence": 0,
+        "appeal": 0,
+        "point": 10,
+        "items": [
+          {
+            "id": 2,
+            "quantity": 1
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "[기본 훈련] 정어리 낚시",
+      "type": 1,
+      "level": 1,
+      "reward": {
+        "strength": 0,
+        "intelligence": 3,
+        "appeal": 0,
+        "point": 0,
+        "items": [
+          {
+            "id": 2,
+            "quantity": 10
+          }
+        ]
+      },
+      "cost": {
+        "strength": 0,
+        "intelligence": 0,
+        "appeal": 0,
+        "point": 12,
+        "items": [ ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "[기본 알바] 클럽 알바",
+      "type": 2,
+      "level": 1,
+      "reward": {
+        "strength": 0,
+        "intelligence": 0,
+        "appeal": 3,
+        "point": 10,
+        "items": [ ]
+      },
+      "cost": {
+        "strength": 1,
+        "intelligence": 2,
+        "appeal": 0,
+        "point": 0,
+        "items": [ ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "[기본 공부] 무사 수행",
+      "type": 3,
+      "level": 3,
+      "reward": {
+        "strength": 20,
+        "intelligence": 0,
+        "appeal": 0,
+        "point": 0,
+        "items": [ ]
+      },
+      "cost": {
+        "strength": 0,
+        "intelligence": 0,
+        "appeal": 0,
+        "point": 20,
+        "items": [ ]
+      }
+    },
+    {
+      "id": 5,
+      "name": "[기본 공부] 외국어 과외 - 강아지말 배우기",
+      "type": 4,
+      "level": 3,
+      "reward": {
+        "strength": 0,
+        "intelligence": 20,
+        "appeal": 0,
+        "point": 0,
+        "items": [ ]
+      },
+      "cost": {
+        "strength": 0,
+        "intelligence": 0,
+        "appeal": 0,
+        "point": 20,
+        "items": [ ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "[특별 훈련] 태공냥 - 고래낚시",
+      "type": 1,
+      "level": 5,
+      "moment": {
+        "start": {
+          "hour": 18,
+          "min": 0,
+          "sec": 0
+        },
+        "count": 150,
+        "keep": 60,
+        "interval": 60
+      },
+      "reward": {
+        "strength": 0,
+        "intelligence": 100,
+        "appeal": 0,
+        "point": 0,
+        "items": [
+          {
+            "id": 1000,
+            "quantity": 10
+          },
+          {
+            "id": 1001,
+            "quantity": 10
+          },
+          {
+            "id": 1002,
+            "quantity": 10
+          },
+          {
+            "id": 1003,
+            "quantity": 10
+          },
+          {
+            "id": 1004,
+            "quantity": 10
+          },
+          {
+            "id": 1005,
+            "quantity": 10
+          },
+          {
+            "id": 1006,
+            "quantity": 10
+          }
+        ]
+      },
+      "cost": {
+        "strength": 0,
+        "intelligence": 0,
+        "appeal": 0,
+        "point": 20,
+        "items": [ ]
+      }
+    }
+  ],
+  "errors": [
+    "성공",
+    "추카추카 레벨업!!",
+    "잘못된 아이디입니다",
+    "잘못된 수량입니다",
+    "속성이 부족해요",
+    "고냥이 캐시가 부족해요. 고양이 시장에서 아이템을 팔면 고냥이 캐시를 벌 수 있어요",
+    "아이템이 부족해요. 고양이 시장에서 필요한 아이템을 사세요",
+    "피곤해요~ HP를 올리세요",
+    "체력이 부족해요",
+    "씨앗 심기 실패",
+    "결국 참지 못하고 농작물 몇 개를 훔쳐 먹었어요 ㅜ.ㅜ"
+  ],
+  "jobTitle": {
+    "default": "이번생은 망했어묘",
+    "prefix": [
+      {
+        "level": 5,
+        "title": "견습"
+      },
+      {
+        "level": 10,
+        "title": "평민"
+      },
+      {
+        "level": 20,
+        "title": "중산층"
+      },
+      {
+        "level": 40,
+        "title": "귀족"
+      },
+      {
+        "level": 80,
+        "title": "왕족"
+      },
+      {
+        "level": 160,
+        "title": "황족"
+      },
+      {
+        "level": 320,
+        "title": "지존"
+      }
+    ],
+    "body": [
+      {
+        "S": 90,
+        "I": 0,
+        "A": 0,
+        "title": "프로 운동선수냥"
+      },
+      {
+        "S": 80,
+        "I": 0,
+        "A": 0,
+        "title": "운동선수냥"
+      },
+      {
+        "S": 70,
+        "I": 0,
+        "A": 0,
+        "title": "튼튼냥"
+      },
+      {
+        "S": 0,
+        "I": 90,
+        "A": 0,
+        "title": "천재냥"
+      },
+      {
+        "S": 0,
+        "I": 80,
+        "A": 0,
+        "title": "영재냥"
+      },
+      {
+        "S": 0,
+        "I": 70,
+        "A": 0,
+        "title": "똘똘냥"
+      },
+      {
+        "S": 0,
+        "I": 0,
+        "A": 90,
+        "title": "치명적 매력냥"
+      },
+      {
+        "S": 0,
+        "I": 0,
+        "A": 80,
+        "title": "나름 동네에서 알아주는 바람둥이냥"
+      },
+      {
+        "S": 0,
+        "I": 0,
+        "A": 70,
+        "title": "아이돌냥"
+      },
+      {
+        "S": 40,
+        "I": 40,
+        "A": 0,
+        "title": "엄친냥"
+      },
+      {
+        "S": 40,
+        "I": 0,
+        "A": 40,
+        "title": "체육돌냥"
+      },
+      {
+        "S": 0,
+        "I": 40,
+        "A": 40,
+        "title": "사기꾼냥"
+      },
+      {
+        "S": 20,
+        "I": 20,
+        "A": 20,
+        "title": "적당히 때뭍은 교회오빠냥"
+      },
+      {
+        "S": 0,
+        "I": 0,
+        "A": 0,
+        "title": "정체를 알 수 없는 길고양이"
+      }
+    ]
+  },
+  "achievement": {
+    "daily": [
+      {
+        "title": "정어리 낚시 1번 하기",
+        "category": 0,
+        "id": 2,
+        "value": 1,
+        "rewardId": 400,
+        "rewardValue": 10
+      },
+      {
+        "title": "아이템 구매 1번 하기",
+        "category": 1,
+        "id": 0,
+        "value": 1,
+        "rewardId": 400,
+        "rewardValue": 10
+      },
+      {
+        "title": "300 아이템 구매 10개 하기",
+        "category": 1,
+        "id": 300,
+        "value": 10,
+        "rewardId": 400,
+        "rewardValue": 10
+      },
+      {
+        "title": "아이템 판매 1번 하기",
+        "category": 2,
+        "id": 0,
+        "value": 1,
+        "rewardId": 400,
+        "rewardValue": 10
+      }
+    ],
+    "totally": [
+      {
+        "title": "정어리 낚시 3번 하기",
+        "category": 0,
+        "id": 2,
+        "value": 3,
+        "rewardId": 400,
+        "rewardValue": 10,
+        "isFinished": false
+      },
+      {
+        "title": "아이템 구매 3번 하기",
+        "category": 1,
+        "id": 0,
+        "value": 3,
+        "rewardId": 400,
+        "rewardValue": 10
+      },
+      {
+        "title": "체력 충전 1번 하기",
+        "category": 3,
+        "id": 0,
+        "value": 1,
+        "rewardId": 400,
+        "rewardValue": 1
+      },
+      {
+        "title": "농사 심기 1번 하기",
+        "category": 4,
+        "id": 0,
+        "value": 1,
+        "rewardId": 400,
+        "rewardValue": 1
+      },
+      {
+        "title": "농사 돌보기 1번 하기",
+        "category": 4,
+        "id": 1,
+        "value": 1,
+        "rewardId": 400,
+        "rewardValue": 1
+      },
+      {
+        "title": "농사 수확 1번 하기",
+        "category": 4,
+        "id": 2,
+        "value": 1,
+        "rewardId": 400,
+        "rewardValue": 1
+      },
+      {
+        "title": "농사 수확량 10 채우기",
+        "category": 4,
+        "id": 3,
+        "value": 10,
+        "rewardId": 400,
+        "rewardValue": 1
+      },
+      {
+        "title": "경묘 1번 참가하기",
+        "category": 5,
+        "id": 0,
+        "value": 1,
+        "rewardId": 400,
+        "rewardValue": 1
+      },
+      {
+        "title": "경묘 1등 1번 하기",
+        "category": 5,
+        "id": 1,
+        "value": 1,
+        "rewardId": 400,
+        "rewardValue": 1
+      },
+      {
+        "title": "경묘 2등 1번 하기",
+        "category": 5,
+        "id": 2,
+        "value": 1,
+        "rewardId": 400,
+        "rewardValue": 1
+      }
+    ]
+  }
+}
