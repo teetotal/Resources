@@ -21,10 +21,38 @@
     },
     {
       "id": 3,
-      "name": "실뭉치",
+      "name": "강아지풀",
       "type": 2,
       "value": 10,
       "grade": 2
+    },
+    {
+      "id": 4,
+      "name": "외출용 가슴줄",
+      "type": 2,
+      "value": 1,
+      "grade": 1
+    },
+    {
+      "id": 5,
+      "name": "기본 낚시 미끼",
+      "type": 1,
+      "value": 1,
+      "grade": 1
+    },
+    {
+      "id": 6,
+      "name": "고양이 신발",
+      "type": 1,
+      "value": 1,
+      "grade": 1
+    },
+     {
+      "id": 7,
+      "name": "무사수행 도복",
+      "type": 1,
+      "value": 1,
+      "grade": 1
     },
     {
       "id": 100,
@@ -48,57 +76,64 @@
       "grade": 3
     },
     {
+      "id": 103,
+      "name": "[보조식품] 개다래 술",
+      "type": 101,
+      "value": 10,
+      "grade": 3
+    },
+    {
       "id": 200,
-      "name": "[경묘] 쉴드용 고양이 부적 lv.1",
+      "name": "[경묘] 쉴드용 고양이 부적",
       "type": 201,
       "value": 1,
       "grade": 1
     },
     {
       "id": 210,
-      "name": "[경묘] 속업용 생선 lv.1",
+      "name": "[경묘] 속업용 생선",
       "type": 202,
       "value": 2,
       "grade": 1
     },
     {
       "id": 211,
-      "name": "[경묘] 속업용 생선 lv.2",
+      "name": "[경묘] 속업용 생선",
       "type": 202,
       "value": 4,
       "grade": 2
     },
     {
       "id": 220,
-      "name": "[경묘] 전방공격용 츄르 lv.1",
+      "name": "[경묘] 전방공격용 츄르",
       "type": 203,
       "value": 2,
       "grade": 1
     },
     {
       "id": 221,
-      "name": "[경묘] 전방공격용 츄르 lv.2",
+      "name": "[경묘] 전방공격용 츄르",
       "type": 203,
       "value": 4,
       "grade": 1
     },
     {
       "id": 230,
-      "name": "[경묘] 1등공격용 고양이의 초능력 lv.1",
+      "name": "[경묘] 1등공격용 고양이의 초능력",
       "type": 204,
       "value": 2,
       "grade": 1
     },
     {
       "id": 231,
-      "name": "[경묘] 1등공격용 고양이의 초능력 lv.2",
+      "name": "[경묘] 1등공격용 고양이의 초능력",
       "type": 204,
       "value": 4,
       "grade": 2
     },
     {
       "id": 232,
-      "name": "[경묘] 1등공격용 고양이의 초능력 lv.3",
+      "name": "[경묘] 1등공격용 고양이의 초능력",
       "type": 204,
       "value": 6,
       "grade": 3
@@ -119,21 +154,21 @@
     },
     {
       "id": 400,
-      "name": "[씨앗] 캣닢씨앗 lv.1",
+      "name": "[씨앗] 캣닢씨앗",
       "type": 400,
       "value": 1,
       "grade": 1
     },
     {
       "id": 401,
-      "name": "[씨앗] 캣닢씨앗 lv.2",
+      "name": "[씨앗] 캣닢씨앗",
       "type": 400,
       "value": 1,
       "grade": 2
     },
     {
       "id": 402,
-      "name": "[씨앗] 캣닢씨앗 lv.3",
+      "name": "[씨앗] 캣닢씨앗",
       "type": 400,
       "value": 1,
       "grade": 3
@@ -306,18 +341,29 @@
       "type": 1,
       "level": 1,
       "reward": {
-        "strength": 15,
+        "strength": 20,
         "intelligence": 0,
         "appeal": 0,
         "point": 0,
-        "items": [ ]
+        "items": [
+          {
+            "id": 400,
+            "quantity": 1
+
+          }
+        ]
       },
       "cost": {
         "strength": 0,
         "intelligence": 0,
         "appeal": 0,
-        "point": 5,
-        "items": [ ]
+        "point": 0,
+        "items": [
+          {
+            "id": 4,
+            "quantity": 1
+          }      
+        ]
       }
     },
     {
@@ -336,8 +382,13 @@
         "strength": 0,
         "intelligence": 0,
         "appeal": 0,
-        "point": 5,
-        "items": [ ]
+        "point": 0,
+        "items": [
+          {
+            "id": 1,
+            "quantity": 1
+          }        
+        ]
       }
     },
     {
@@ -356,8 +407,13 @@
         "strength": 0,
         "intelligence": 0,
         "appeal": 0,
-        "point": 5,
-        "items": [ ]
+        "point": 0,
+        "items": [
+          {
+            "id": 1,
+            "quantity": 1
+          }        
+        ]
       }
     },
     {
@@ -394,10 +450,10 @@
         "strength": 0,
         "intelligence": 0,
         "appeal": 0,
-        "point": 30,
+        "point": 0,
         "items": [
           {
-            "id": 2,
+            "id": 1,
             "quantity": 10
           }
         ]
@@ -420,41 +476,63 @@
         "intelligence": 0,
         "appeal": 0,
         "point": 0,
-        "items": [ ]
+        "items": [
+          {
+            "id": 400,
+            "quantity": 3
+
+          }
+        ]
       },
       "cost": {
         "strength": 0,
         "intelligence": 10,
         "appeal": 0,
-        "point": 10,
-        "items": [ ]
+        "point": 0,
+        "items": [
+          {
+            "id": 4,
+            "quantity": 1
+          }        
+        ]
       }
     },
     {
       "id": 7,
       "name": "뒷동산 운동",
       "type": 1,
-      "level": 2,
+      "level": 3,
       "reward": {
         "strength": 60,
         "intelligence": 0,
         "appeal": 0,
         "point": 0,
-        "items": [ ]
+        "items": [
+          {
+            "id": 400,
+            "quantity": 3
+
+          }
+        ]
       },
       "cost": {
         "strength": 0,
         "intelligence": 0,
         "appeal": 10,
-        "point": 10,
-        "items": [ ]
+        "point": 0,
+        "items": [
+          {
+            "id": 6,
+            "quantity": 1
+          }        
+        ]
       }
     },
     {
       "id": 8,
       "name": "고시공부",
       "type": 2,
-      "level": 2,
+      "level": 3,
       "reward": {
         "strength": 0,
         "intelligence": 60,
@@ -474,7 +552,7 @@
       "id": 9,
       "name": "무사수행",
       "type": 3,
-      "level": 2,
+      "level": 3,
       "reward": {
         "strength": 30,
         "intelligence": 30,
@@ -486,8 +564,13 @@
         "strength": 0,
         "intelligence": 0,
         "appeal": 10,
-        "point": 10,
-        "items": [ ]
+        "point": 0,
+        "items": [
+          {
+            "id": 7,
+            "quantity": 1
+          }      
+        ]
       }
     },
     {
@@ -558,8 +641,13 @@
         "strength": 0,
         "intelligence": 0,
         "appeal": 0,
-        "point": 60,
-        "items": [ ]
+        "point": 10,
+        "items": [
+          {
+            "id": 1,
+            "quantity": 15
+          }        
+        ]
       },
       "cost": {
         "strength": 0,
@@ -585,21 +673,29 @@
         "strength": 0,
         "intelligence": 10,
         "appeal": 10,
-        "point": 10,
-        "items": [ ]
+        "point": 0,
+        "items": [
+          {
+            "id": 3,
+            "quantity": 1
+          }      
+        ]
       }
     },
     {
       "id": 13,
       "name": "신장개업 댄스 알바",
       "type": 0,
-      "level": 4,
+      "level": 5,
       "reward": {
         "strength": 45,
         "intelligence": 0,
         "appeal": 0,
-        "point": 45,
-        "items": [ ]
+        "point": 10,
+        "items": [{
+            "id": 1,
+            "quantity": 15
+          } ]
       },
       "cost": {
         "strength": 0,
@@ -613,7 +709,7 @@
       "id": 14,
       "name": "고냥이 tv보기",
       "type": 4,
-      "level": 4,
+      "level": 5,
       "reward": {
         "strength": 0,
         "intelligence": 0,
@@ -625,15 +721,20 @@
         "strength": 0,
         "intelligence": 15,
         "appeal": 0,
-        "point": 15,
-        "items": [ ]
+        "point": 0,
+        "items": [
+          {
+            "id": 1,
+            "quantity": 2
+          }        
+        ]
       }
     },
     {
       "id": 15,
       "name": "놀이동산",
       "type": 1,
-      "level": 4,
+      "level": 5,
       "reward": {
         "strength": 45,
         "intelligence": 0,
@@ -645,41 +746,61 @@
         "strength": 0,
         "intelligence": 15,
         "appeal": 0,
-        "point": 15,
-        "items": [ ]
+        "point": 0,
+        "items": [
+          {
+            "id": 1,
+            "quantity": 1
+          }
+        ]
       }
     },
     {
       "id": 16,
       "name": "정어리 낚시",
       "type": 4,
-      "level": 4,
+      "level": 6,
       "reward": {
         "strength": 0,
-        "intelligence": 90,
+        "intelligence": 10,
         "appeal": 0,
         "point": 0,
-        "items": [ ]
+        "items": [
+          {
+            "id": 1,
+            "quantity": 20
+          }
+        ]
       },
       "cost": {
         "strength": 15,
         "intelligence": 0,
         "appeal": 0,
-        "point": 15,
-        "items": [ ]
+        "point": 0,
+        "items": [
+          {
+            "id": 5,
+            "quantity": 3
+          }
+        ]
       }
     },
     {
       "id": 17,
       "name": "노가다",
       "type": 3,
-      "level": 4,
+      "level": 6,
       "reward": {
         "strength": 0,
         "intelligence": 0,
         "appeal": 0,
-        "point": 90,
-        "items": [ ]
+        "point": 20,
+        "items": [
+          {
+            "id": 1,
+            "quantity": 15
+          }
+        ]
       },
       "cost": {
         "strength": 30,
@@ -693,33 +814,48 @@
       "id": 18,
       "name": "개다래 술 담그기",
       "type": 4,
-      "level": 8,
+      "level": 6,
       "reward": {
         "strength": 0,
         "intelligence": 0,
         "appeal": 120,
         "point": 0,
-        "items": [ ]
+        "items": [
+           {
+            "id": 103,
+            "quantity": 5
+          }    
+        ]
       },
       "cost": {
         "strength": 20,
         "intelligence": 0,
         "appeal": 0,
-        "point": 20,
-        "items": [ ]
+        "point": 0,
+        "items": [
+          {
+            "id": 100,
+            "quantity": 5
+          }        
+        ]
       }
     },
     {
       "id": 19,
       "name": "코딩",
       "type": 2,
-      "level": 8,
+      "level": 7,
       "reward": {
         "strength": 0,
         "intelligence": 60,
         "appeal": 0,
-        "point": 60,
-        "items": [ ]
+        "point": 20,
+        "items": [
+          {
+            "id": 1,
+            "quantity": 15
+          }
+        ]
       },
       "cost": {
         "strength": 20,
@@ -733,13 +869,18 @@
       "id": 20,
       "name": "클럽알바",
       "type": 0,
-      "level": 8,
+      "level": 7,
       "reward": {
         "strength": 0,
         "intelligence": 0,
         "appeal": 60,
-        "point": 60,
-        "items": [ ]
+        "point": 10,
+        "items": [
+          {
+            "id": 1,
+            "quantity": 15
+          }
+        ]
       },
       "cost": {
         "strength": 20,
@@ -753,7 +894,7 @@
       "id": 21,
       "name": "식빵굽기",
       "type": 4,
-      "level": 8,
+      "level": 7,
       "reward": {
         "strength": 0,
         "intelligence": 0,
@@ -765,8 +906,11 @@
         "strength": 15,
         "intelligence": 15,
         "appeal": 0,
-        "point": 10,
-        "items": [ ]
+        "point": 0,
+        "items": [ {
+            "id": 1,
+            "quantity": 1
+          }]
       }
     },
     {
@@ -778,11 +922,16 @@
         "strength": 0,
         "intelligence": 0,
         "appeal": 0,
-        "point": 120,
-        "items": [ ]
+        "point": 20,
+        "items": [
+          {
+            "id": 1,
+            "quantity": 25
+          }
+        ]
       },
       "cost": {
-        "strength": 10,
+        "strength": 30,
         "intelligence": 10,
         "appeal": 10,
         "point": 0,
@@ -799,21 +948,32 @@
         "intelligence": 60,
         "appeal": 60,
         "point": 0,
-        "items": [ ]
+        "items": [
+          {
+            "id": 201,
+            "quantity": 3
+
+          }
+        ]
       },
       "cost": {
         "strength": 10,
         "intelligence": 0,
         "appeal": 0,
-        "point": 30,
-        "items": [ ]
+        "point": 0,
+        "items": [
+          {
+            "id": 1,
+            "quantity": 3
+          }
+        ]
       }
     },
     {
       "id": 24,
       "name": "황제케어",
       "type": 4,
-      "level": 16,
+      "level": 9,
       "reward": {
         "strength": 200,
         "intelligence": 200,
@@ -836,8 +996,8 @@
     "잘못된 아이디입니다",
     "잘못된 수량입니다",
     "속성이 부족해요",
-    "고냥이 캐시가 부족해요. 고양이 시장에서 아이템을 팔면 고냥이 캐시를 벌 수 있어요",
-    "아이템이 부족해요. 고양이 시장에서 필요한 아이템을 사세요",
+    "고냥이 캐시가 부족해요",
+    "아이템이 부족해요",
     "피곤해요~ HP를 올리세요",
     "체력이 부족해요",
     "씨앗 심기 실패",
