@@ -47,9 +47,23 @@
       "value": 1,
       "grade": 1
     },
-     {
+    {
       "id": 7,
       "name": "무사수행 도복",
+      "type": 1,
+      "value": 1,
+      "grade": 1
+    },
+    {
+      "id": 8,
+      "name": "개다래 술 재료",
+      "type": 1,
+      "value": 1,
+      "grade": 1
+    },
+    {
+      "id": 99,
+      "name": "딱히 쓸데 없는 장난감",
       "type": 1,
       "value": 1,
       "grade": 1
@@ -334,7 +348,7 @@
       ]
     }
   ],
-  "training": [    
+  "training": [
     {
       "id": 1,
       "name": "산책",
@@ -362,7 +376,7 @@
           {
             "id": 4,
             "quantity": 1
-          }      
+          }
         ]
       }
     },
@@ -376,7 +390,13 @@
         "intelligence": 15,
         "appeal": 0,
         "point": 0,
-        "items": [ ]
+        "items": [
+          {
+            "id": 99,
+            "quantity": 2
+
+          }
+        ]
       },
       "cost": {
         "strength": 0,
@@ -387,7 +407,7 @@
           {
             "id": 1,
             "quantity": 1
-          }        
+          }
         ]
       }
     },
@@ -401,7 +421,13 @@
         "intelligence": 0,
         "appeal": 15,
         "point": 0,
-        "items": [ ]
+        "items": [
+          {
+            "id": 99,
+            "quantity": 2
+
+          }
+        ]
       },
       "cost": {
         "strength": 0,
@@ -412,21 +438,27 @@
           {
             "id": 1,
             "quantity": 1
-          }        
+          }
         ]
       }
     },
     {
       "id": 4,
-      "name": "쥐돌이 놀이",
-      "type": 0,
+      "name": "쥐돌이 놀이 수련",
+      "type": 5,
       "level": 2,
       "reward": {
         "strength": 30,
         "intelligence": 30,
         "appeal": 0,
         "point": 0,
-        "items": [ ]
+        "items": [
+          {
+            "id": 99,
+            "quantity": 2
+
+          }
+        ]
       },
       "cost": {
         "strength": 0,
@@ -444,7 +476,7 @@
     {
       "id": 5,
       "name": "생선집 알바",
-      "type": 2,
+      "type": 6,
       "level": 2,
       "reward": {
         "strength": 0,
@@ -468,8 +500,8 @@
     },
     {
       "id": 6,
-      "name": "나비 쫒아다니기",
-      "type": 4,
+      "name": "나비 쫒아다니기 수련",
+      "type": 5,
       "level": 2,
       "reward": {
         "strength": 60,
@@ -493,14 +525,14 @@
           {
             "id": 4,
             "quantity": 1
-          }        
+          }
         ]
       }
     },
     {
       "id": 7,
-      "name": "뒷동산 운동",
-      "type": 1,
+      "name": "뒷산 운동",
+      "type": 5,
       "level": 3,
       "reward": {
         "strength": 60,
@@ -524,7 +556,7 @@
           {
             "id": 6,
             "quantity": 1
-          }        
+          }
         ]
       }
     },
@@ -551,14 +583,20 @@
     {
       "id": 9,
       "name": "무사수행",
-      "type": 3,
+      "type": 5,
       "level": 3,
       "reward": {
         "strength": 30,
         "intelligence": 30,
         "appeal": 0,
         "point": 0,
-        "items": [ ]
+        "items": [
+          {
+            "id": 99,
+            "quantity": 2
+
+          }
+        ]
       },
       "cost": {
         "strength": 0,
@@ -569,7 +607,7 @@
           {
             "id": 7,
             "quantity": 1
-          }      
+          }
         ]
       }
     },
@@ -646,7 +684,7 @@
           {
             "id": 1,
             "quantity": 15
-          }        
+          }
         ]
       },
       "cost": {
@@ -659,15 +697,21 @@
     },
     {
       "id": 12,
-      "name": "강아지풀 놀이",
-      "type": 1,
+      "name": "강아지풀 놀이 수련",
+      "type": 5,
       "level": 4,
       "reward": {
         "strength": 90,
         "intelligence": 0,
         "appeal": 0,
         "point": 0,
-        "items": [ ]
+        "items": [
+          {
+            "id": 99,
+            "quantity": 2
+
+          }
+        ]
       },
       "cost": {
         "strength": 0,
@@ -678,7 +722,7 @@
           {
             "id": 3,
             "quantity": 1
-          }      
+          }
         ]
       }
     },
@@ -692,10 +736,12 @@
         "intelligence": 0,
         "appeal": 0,
         "point": 10,
-        "items": [{
+        "items": [
+          {
             "id": 1,
             "quantity": 15
-          } ]
+          }
+        ]
       },
       "cost": {
         "strength": 0,
@@ -715,7 +761,13 @@
         "intelligence": 0,
         "appeal": 90,
         "point": 0,
-        "items": [ ]
+        "items": [
+          {
+            "id": 99,
+            "quantity": 2
+
+          }
+        ]
       },
       "cost": {
         "strength": 0,
@@ -726,7 +778,7 @@
           {
             "id": 1,
             "quantity": 2
-          }        
+          }
         ]
       }
     },
@@ -740,7 +792,13 @@
         "intelligence": 0,
         "appeal": 45,
         "point": 0,
-        "items": [ ]
+        "items": [
+          {
+            "id": 99,
+            "quantity": 2
+
+          }
+        ]
       },
       "cost": {
         "strength": 0,
@@ -758,7 +816,7 @@
     {
       "id": 16,
       "name": "정어리 낚시",
-      "type": 4,
+      "type": 6,
       "level": 6,
       "reward": {
         "strength": 0,
@@ -821,10 +879,10 @@
         "appeal": 120,
         "point": 0,
         "items": [
-           {
+          {
             "id": 103,
             "quantity": 5
-          }    
+          }
         ]
       },
       "cost": {
@@ -834,9 +892,9 @@
         "point": 0,
         "items": [
           {
-            "id": 100,
+            "id": 8,
             "quantity": 5
-          }        
+          }
         ]
       }
     },
@@ -900,17 +958,25 @@
         "intelligence": 0,
         "appeal": 120,
         "point": 0,
-        "items": [ ]
+        "items": [
+          {
+            "id": 99,
+            "quantity": 2
+
+          }
+        ]
       },
       "cost": {
         "strength": 15,
         "intelligence": 15,
         "appeal": 0,
         "point": 0,
-        "items": [ {
+        "items": [
+          {
             "id": 1,
             "quantity": 1
-          }]
+          }
+        ]
       }
     },
     {
@@ -1127,9 +1193,9 @@
       {
         "title": "정어리 낚시 1번 하기",
         "category": 0,
-        "id": 2,
+        "id": 16,
         "value": 1,
-        "rewardId": 400,
+        "rewardId": 2,
         "rewardValue": 10
       },
       {
@@ -1137,15 +1203,15 @@
         "category": 1,
         "id": 0,
         "value": 1,
-        "rewardId": 400,
+        "rewardId": 1,
         "rewardValue": 10
       },
       {
-        "title": "300 아이템 구매 10개 하기",
+        "title": "정어리 구매 10개 하기",
         "category": 1,
-        "id": 300,
+        "id": 1,
         "value": 10,
-        "rewardId": 400,
+        "rewardId": 3,
         "rewardValue": 10
       },
       {
@@ -1153,7 +1219,7 @@
         "category": 2,
         "id": 0,
         "value": 1,
-        "rewardId": 400,
+        "rewardId": 4,
         "rewardValue": 10
       }
     ],

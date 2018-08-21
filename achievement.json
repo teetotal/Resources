@@ -3,9 +3,9 @@
     {
       "title": "정어리 낚시 1번 하기",
       "category": 0,
-      "id": 2,
+      "id": 16,
       "value": 1,
-      "rewardId": 400,
+      "rewardId": 2,
       "rewardValue": 10
     },
     {
@@ -13,15 +13,15 @@
       "category": 1,
       "id": 0,
       "value": 1,
-      "rewardId": 400,
+      "rewardId": 1,
       "rewardValue": 10
     },
     {
-      "title": "300 아이템 구매 10개 하기",
+      "title": "정어리 구매 10개 하기",
       "category": 1,
-      "id": 300,
+      "id": 1,
       "value": 10,
-      "rewardId": 400,
+      "rewardId": 3,
       "rewardValue": 10
     },
     {
@@ -29,7 +29,7 @@
       "category": 2,
       "id": 0,
       "value": 1,
-      "rewardId": 400,
+      "rewardId": 4,
       "rewardValue": 10
     }
   ],
@@ -37,7 +37,7 @@
     {
       "title": "정어리 낚시 3번 하기",
       "category": 0,
-      "id": 2,
+      "id": 16,
       "value": 3,
       "rewardId": 400,
       "rewardValue": 10,
