@@ -12,9 +12,9 @@
   "exp": 0,
   "level": 1,
   "property": {
-    "strength": 0,
-    "intelligence": 0,
-    "appeal": 0
+    "strength": 10,
+    "intelligence": 10,
+    "appeal": 10
   },
   "inventory": {
     "growth": [
