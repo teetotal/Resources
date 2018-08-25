@@ -38,7 +38,20 @@
     "race": [ ],
     "adorn": [ ],
     "HP": [ ],
-    "farming": [ ]
+    "farming": [
+      {
+        "id": 400,
+        "quantity": 3
+      },
+      {
+        "id": 401,
+        "quantity": 3
+      },
+      {
+        "id": 402,
+        "quantity": 3
+      }   
+    ]
   },
   "collection": [ ],
   "farming": [ ],
