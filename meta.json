@@ -1,7 +1,7 @@
 {
   "trade": {
     "margin": 0.25,
-    "updateInterval": 300,
+    "updateInterval": 1800,
     "levelWeight": 15
   },
   "items": [
@@ -60,6 +60,20 @@
       "type": 1,
       "value": 1,
       "grade": 1
+    },
+    {
+      "id": 50,
+      "name": "제법 비싼 장난감",
+      "type": 1,
+      "value": 1,
+      "grade": 3
+    },
+    {
+      "id": 51,
+      "name": "팔면 돈 되는 장난감",
+      "type": 1,
+      "value": 1,
+      "grade": 5
     },
     {
       "id": 99,
@@ -210,14 +224,14 @@
     },
     {
       "id": 401,
-      "name": "[씨앗] 캣닢씨앗",
+      "name": "[씨앗] 마법씨앗",
       "type": 400,
       "value": 1,
       "grade": 2
     },
     {
       "id": 402,
-      "name": "[씨앗] 캣닢씨앗",
+      "name": "[씨앗] 초특급씨앗",
       "type": 400,
       "value": 1,
       "grade": 3
@@ -285,30 +299,30 @@
   "seed": [
     {
       "id": 400,
-      "name": "캣닢 씨앗 lv.1",
+      "name": "lv.1",
       "farmProductId": 101,
-      "outputMax": 10,
+      "outputMax": 5,
       "timeGrow": 15,
       "cares": 1,
       "maxOvertime": 60
     },
     {
       "id": 401,
-      "name": "캣닢 씨앗 lv.2",
-      "farmProductId": 101,
-      "outputMax": 20,
-      "timeGrow": 30,
+      "name": "lv.2",
+      "farmProductId": 50,
+      "outputMax": 5,
+      "timeGrow": 300,
       "cares": 2,
-      "maxOvertime": 90
+      "maxOvertime": 300
     },
     {
       "id": 402,
-      "name": "캣닢 씨앗 lv.3",
-      "farmProductId": 101,
-      "outputMax": 30,
-      "timeGrow": 60,
+      "name": "lv.3",
+      "farmProductId": 51,
+      "outputMax": 5,
+      "timeGrow": 600,
       "cares": 3,
-      "maxOvertime": 180
+      "maxOvertime": 600
     }
   ],
   "race": [
