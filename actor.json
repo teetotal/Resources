@@ -12,9 +12,9 @@
   "exp": 0,
   "level": 1,
   "property": {
-    "strength": 10,
-    "intelligence": 10,
-    "appeal": 10
+    "strength": 0,
+    "intelligence": 0,
+    "appeal": 0
   },
   "inventory": {
     "growth": [
@@ -56,108 +56,7 @@
   "collection": [ ],
   "farming": [ ],
   "achievement": {
-    "daily": [
-      {
-        "category": 0,
-        "id": 2,
-        "accumulation": 0,
-        "isFinished": false,
-        "isReceived": false
-      },
-      {
-        "category": 1,
-        "id": 0,
-        "accumulation": 0,
-        "isFinished": false,
-        "isReceived": false
-      },
-      {
-        "category": 1,
-        "id": 300,
-        "accumulation": 0,
-        "isFinished": false,
-        "isReceived": false
-      },
-      {
-        "category": 2,
-        "id": 0,
-        "accumulation": 0,
-        "isFinished": false,
-        "isReceived": false
-      }
-    ],
-    "totally": [
-      {
-        "category": 0,
-        "id": 2,
-        "accumulation": 0,
-        "isFinished": false,
-        "isReceived": false
-      },
-      {
-        "category": 1,
-        "id": 0,
-        "accumulation": 0,
-        "isFinished": false,
-        "isReceived": false
-      },
-      {
-        "category": 3,
-        "id": 0,
-        "accumulation": 0,
-        "isFinished": false,
-        "isReceived": false
-      },
-      {
-        "category": 4,
-        "id": 0,
-        "accumulation": 0,
-        "isFinished": false,
-        "isReceived": false
-      },
-      {
-        "category": 4,
-        "id": 1,
-        "accumulation": 0,
-        "isFinished": false,
-        "isReceived": false
-      },
-      {
-        "category": 4,
-        "id": 2,
-        "accumulation": 0,
-        "isFinished": false,
-        "isReceived": false
-      },
-      {
-        "category": 4,
-        "id": 3,
-        "accumulation": 0,
-        "isFinished": false,
-        "isReceived": false
-      },
-      {
-        "category": 5,
-        "id": 0,
-        "accumulation": 0,
-        "isFinished": false,
-        "isReceived": false
-      },
-      {
-        "category": 5,
-        "id": 1,
-        "accumulation": 0,
-        "isFinished": false,
-        "isReceived": false
-      },
-      {
-        "category": 5,
-        "id": 2,
-        "accumulation": 0,
-        "isFinished": false,
-        "isReceived": false
-      }
-    ],
+    "quests": [],    
     "accumulation": { }
   }
 }
