@@ -105,53 +105,54 @@
     },
     {
       "id": 1,
-      "name": "정어리",
-      "type": 1,
-      "value": 0,
-      "grade": 1
-    },
-    {
-      "id": 2,
       "name": "쥐돌이",
       "type": 2,
       "value": 0,
       "grade": 1
     },
     {
-      "id": 3,
-      "name": "강아지풀",
-      "type": 2,
-      "value": 10,
-      "grade": 2
+      "id": 2,
+      "name": "정어리",
+      "type": 1,
+      "value": 0,
+      "grade": 1
     },
     {
-      "id": 4,
-      "name": "외출용 가슴줄",
+      "id": 3,
+      "name": "개다래나무 열매",
       "type": 2,
       "value": 1,
       "grade": 1
     },
     {
+      "id": 4,
+      "name": "수련 장비",
+      "type": 1,
+      "value": 1,
+      "grade": 1
+    },
+    {
       "id": 5,
+      "name": "고양이 방울",
+      "type": 2,
+      "value": 1,
+      "grade": 1
+    },
+    {
+      "id": 6,
       "name": "기본 낚시 미끼",
       "type": 1,
       "value": 1,
       "grade": 1
     },
     {
-      "id": 6,
-      "name": "고양이 신발",
-      "type": 1,
-      "value": 1,
-      "grade": 1
-    },
-    {
       "id": 7,
-      "name": "무사수행 도복",
+      "name": "고양이 장화",
       "type": 1,
       "value": 1,
       "grade": 1
     },
+    
     {
       "id": 8,
       "name": "개다래 술 재료",
