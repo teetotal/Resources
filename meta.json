@@ -712,10 +712,28 @@
     },
     {
       "level": 7,
-      "title": "체력 충전 1번 하기",
+      "title": "하트 충전 1번 하기",
       "category": 3,
       "id": 0,
       "value": 1,
+      "rewardId": 400,
+      "rewardValue": 1
+    },
+    {
+      "level": 7,
+      "title": "체력 능력 300 만들기",
+      "category": 6,
+      "id": 1,
+      "value": 300,
+      "rewardId": 400,
+      "rewardValue": 1
+    },
+    {
+      "level": 7,
+      "title": "경묘 50번 참여 하기",
+      "category": 5,
+      "id": 0,
+      "value": 50,
       "rewardId": 400,
       "rewardValue": 1
     },
@@ -730,10 +748,46 @@
     },
     {
       "level": 8,
+      "title": "지력 능력 300 만들기",
+      "category": 6,
+      "id": 2,
+      "value": 300,
+      "rewardId": 400,
+      "rewardValue": 1
+    },
+    {
+      "level": 8,
+      "title": "경묘 70번 참여 하기",
+      "category": 5,
+      "id": 0,
+      "value": 50,
+      "rewardId": 400,
+      "rewardValue": 1
+    },
+    {
+      "level": 8,
+      "title": "경묘 1등 20번 하기",
+      "category": 5,
+      "id": 1,
+      "value": 10,
+      "rewardId": 400,
+      "rewardValue": 1
+    },
+    {
+      "level": 8,
       "title": "경묘 2등 10번 하기",
       "category": 5,
       "id": 2,
       "value": 10,
+      "rewardId": 400,
+      "rewardValue": 1
+    },
+    {
+      "level": 9,
+      "title": "매력 능력 300 만들기",
+      "category": 6,
+      "id": 3,
+      "value": 300,
       "rewardId": 400,
       "rewardValue": 1
     },
@@ -779,6 +833,15 @@
       "category": 4,
       "id": 3,
       "value": 10,
+      "rewardId": 400,
+      "rewardValue": 1
+    },
+    {
+      "level": 11,
+      "title": "경묘 Friend 모드 1번 하기",
+      "category": 9,
+      "id": 0,
+      "value": 1,
       "rewardId": 400,
       "rewardValue": 1
     }
