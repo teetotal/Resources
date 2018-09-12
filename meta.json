@@ -191,21 +191,21 @@
       "id": 101,
       "name": "[보조식품] 캣닢",
       "type": 101,
-      "value": 5,
+      "value": 3,
       "grade": 2
     },
     {
       "id": 102,
       "name": "[보조식품] 통조림",
       "type": 101,
-      "value": 10,
+      "value": 5,
       "grade": 3
     },
     {
       "id": 103,
       "name": "[보조식품] 개다래 술",
       "type": 101,
-      "value": 10,
+      "value": 7,
       "grade": 3
     },
     {
@@ -307,27 +307,27 @@
     {
       "id": 400,
       "name": "lv.1",
-      "farmProductId": 101,
-      "outputMax": 5,
-      "timeGrow": 15,
+      "farmProductId": 100,
+      "outputMax": 1,
+      "timeGrow": 3,
       "cares": 1,
       "maxOvertime": 60
     },
     {
       "id": 401,
       "name": "lv.2",
-      "farmProductId": 50,
-      "outputMax": 5,
-      "timeGrow": 300,
+      "farmProductId": 101,
+      "outputMax": 1,
+      "timeGrow": 6,
       "cares": 2,
       "maxOvertime": 300
     },
     {
       "id": 402,
       "name": "lv.3",
-      "farmProductId": 51,
-      "outputMax": 5,
-      "timeGrow": 600,
+      "farmProductId": 102,
+      "outputMax": 1,
+      "timeGrow": 9,
       "cares": 3,
       "maxOvertime": 600
     }
