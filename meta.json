@@ -374,7 +374,7 @@
       "outputMax": 1,
       "timeGrow": 3,
       "cares": 1,
-      "maxOvertime": 100
+      "maxOvertime": 600
     },
     {
       "id": 401,
@@ -383,7 +383,7 @@
       "outputMax": 1,
       "timeGrow": 6,
       "cares": 2,
-      "maxOvertime": 300
+      "maxOvertime": 600
     },
     {
       "id": 402,
