@@ -4,7 +4,140 @@
     "updateInterval": 1800,
     "levelWeight": 12
   },
-  "items": [
+  "items": [    
+    {
+      "id": 1,
+      "name": "쥐돌이",
+      "type": 1,
+      "value": 0,
+      "grade": 1
+    },
+    {
+      "id": 2,
+      "name": "정어리",
+      "type": 1,
+      "value": 0,
+      "grade": 1
+    },
+    {
+      "id": 3,
+      "name": "개다래나무 열매",
+      "type": 1,
+      "value": 1,
+      "grade": 1
+    },
+    {
+      "id": 4,
+      "name": "수련 장비",
+      "type": 1,
+      "value": 1,
+      "grade": 1
+    },
+    {
+      "id": 5,
+      "name": "고양이 방울",
+      "type": 1,
+      "value": 1,
+      "grade": 1
+    },
+    {
+      "id": 6,
+      "name": "기본 낚시 미끼",
+      "type": 1,
+      "value": 1,
+      "grade": 1
+    },
+    {
+      "id": 7,
+      "name": "고양이 장화",
+      "type": 1,
+      "value": 1,
+      "grade": 1
+    },
+    {
+      "id": 8,
+      "name": "개다래 술 재료",
+      "type": 1,
+      "value": 1,
+      "grade": 1
+    },
+    {
+      "id": 50,
+      "name": "제법 비싼 장난감",
+      "type": 1,
+      "value": 1,
+      "grade": 3
+    },
+    {
+      "id": 51,
+      "name": "팔면 돈 되는 장난감",
+      "type": 1,
+      "value": 1,
+      "grade": 5
+    },
+    {
+      "id": 99,
+      "name": "딱히 쓸데 없는 장난감",
+      "type": 1,
+      "value": 1,
+      "grade": 1
+    },
+    {
+      "id": 100,
+      "name": "[보조식품] 파란 사과",
+      "type": 101,
+      "value": 1,
+      "grade": 1
+    },
+    {
+      "id": 101,
+      "name": "[보조식품] 노란 사과",
+      "type": 101,
+      "value": 3,
+      "grade": 2
+    },
+    {
+      "id": 102,
+      "name": "[보조식품] 빨간 사과",
+      "type": 101,
+      "value": 5,
+      "grade": 3
+    },
+    {
+      "id": 103,
+      "name": "[보조식품] 바나나",
+      "type": 101,
+      "value": 7,
+      "grade": 4
+    },
+    {
+      "id": 104,
+      "name": "[보조식품] 블루베리",
+      "type": 101,
+      "value": 7,
+      "grade": 4
+    },
+    {
+      "id": 105,
+      "name": "[보조식품] 당근",
+      "type": 101,
+      "value": 7,
+      "grade": 4
+    },
+    {
+      "id": 106,
+      "name": "[보조식품] 체리",
+      "type": 101,
+      "value": 7,
+      "grade": 4
+    },
+    {
+      "id": 107,
+      "name": "[보조식품] 체리2",
+      "type": 101,
+      "value": 7,
+      "grade": 4
+    },
     {
       "id": 200,
       "name": "[경묘] 쉴드용 고양이 부적",
@@ -104,111 +237,6 @@
       "grade": 5
     },
     {
-      "id": 1,
-      "name": "쥐돌이",
-      "type": 1,
-      "value": 0,
-      "grade": 1
-    },
-    {
-      "id": 2,
-      "name": "정어리",
-      "type": 1,
-      "value": 0,
-      "grade": 1
-    },
-    {
-      "id": 3,
-      "name": "개다래나무 열매",
-      "type": 1,
-      "value": 1,
-      "grade": 1
-    },
-    {
-      "id": 4,
-      "name": "수련 장비",
-      "type": 1,
-      "value": 1,
-      "grade": 1
-    },
-    {
-      "id": 5,
-      "name": "고양이 방울",
-      "type": 1,
-      "value": 1,
-      "grade": 1
-    },
-    {
-      "id": 6,
-      "name": "기본 낚시 미끼",
-      "type": 1,
-      "value": 1,
-      "grade": 1
-    },
-    {
-      "id": 7,
-      "name": "고양이 장화",
-      "type": 1,
-      "value": 1,
-      "grade": 1
-    },
-    {
-      "id": 8,
-      "name": "개다래 술 재료",
-      "type": 1,
-      "value": 1,
-      "grade": 1
-    },
-    {
-      "id": 50,
-      "name": "제법 비싼 장난감",
-      "type": 1,
-      "value": 1,
-      "grade": 3
-    },
-    {
-      "id": 51,
-      "name": "팔면 돈 되는 장난감",
-      "type": 1,
-      "value": 1,
-      "grade": 5
-    },
-    {
-      "id": 99,
-      "name": "딱히 쓸데 없는 장난감",
-      "type": 1,
-      "value": 1,
-      "grade": 1
-    },
-    {
-      "id": 100,
-      "name": "[보조식품] 캣닢",
-      "type": 101,
-      "value": 1,
-      "grade": 1
-    },
-    {
-      "id": 101,
-      "name": "[보조식품] 마법 열매",
-      "type": 101,
-      "value": 3,
-      "grade": 2
-    },
-    {
-      "id": 102,
-      "name": "[보조식품] 초특급 열매",
-      "type": 101,
-      "value": 5,
-      "grade": 3
-    },
-    {
-      "id": 103,
-      "name": "[보조식품] 개다래 술",
-      "type": 101,
-      "value": 7,
-      "grade": 3
-    },
-    {
       "id": 300,
       "name": "[꾸미기] 토끼머리띠",
       "type": 301,
@@ -224,21 +252,56 @@
     },
     {
       "id": 400,
-      "name": "[씨앗] 캣닢씨앗",
+      "name": "[씨앗] 파란 사과 씨앗",
       "type": 400,
       "value": 1,
       "grade": 1
     },
     {
       "id": 401,
-      "name": "[씨앗] 마법씨앗",
+      "name": "[씨앗] 노란 사과 씨앗",
       "type": 400,
       "value": 1,
       "grade": 2
     },
     {
       "id": 402,
-      "name": "[씨앗] 초특급씨앗",
+      "name": "[씨앗] 빨간 사과 씨앗",
+      "type": 400,
+      "value": 1,
+      "grade": 3
+    },
+    {
+      "id": 403,
+      "name": "[씨앗] 바나나 씨앗",
+      "type": 400,
+      "value": 1,
+      "grade": 3
+    },
+    {
+      "id": 404,
+      "name": "[씨앗] 블루베리 씨앗",
+      "type": 400,
+      "value": 1,
+      "grade": 3
+    },
+    {
+      "id": 405,
+      "name": "[씨앗] 당근 씨앗",
+      "type": 400,
+      "value": 1,
+      "grade": 3
+    },
+    {
+      "id": 406,
+      "name": "[씨앗] 체리 씨앗",
+      "type": 400,
+      "value": 1,
+      "grade": 3
+    },
+    {
+      "id": 407,
+      "name": "[씨앗] 체리2 씨앗",
       "type": 400,
       "value": 1,
       "grade": 3
@@ -311,7 +374,7 @@
       "outputMax": 1,
       "timeGrow": 3,
       "cares": 1,
-      "maxOvertime": 60
+      "maxOvertime": 100
     },
     {
       "id": 401,
@@ -326,6 +389,51 @@
       "id": 402,
       "name": "lv.3",
       "farmProductId": 102,
+      "outputMax": 1,
+      "timeGrow": 9,
+      "cares": 3,
+      "maxOvertime": 600
+    },
+    {
+      "id": 403,
+      "name": "lv.3",
+      "farmProductId": 103,
+      "outputMax": 1,
+      "timeGrow": 9,
+      "cares": 3,
+      "maxOvertime": 600
+    },
+    {
+      "id": 404,
+      "name": "lv.3",
+      "farmProductId": 104,
+      "outputMax": 1,
+      "timeGrow": 9,
+      "cares": 3,
+      "maxOvertime": 600
+    },
+    {
+      "id": 405,
+      "name": "lv.3",
+      "farmProductId": 105,
+      "outputMax": 1,
+      "timeGrow": 9,
+      "cares": 3,
+      "maxOvertime": 600
+    },
+    {
+      "id": 406,
+      "name": "lv.3",
+      "farmProductId": 106,
+      "outputMax": 1,
+      "timeGrow": 9,
+      "cares": 3,
+      "maxOvertime": 600
+    },
+    {
+      "id": 407,
+      "name": "lv.3",
+      "farmProductId": 107,
       "outputMax": 1,
       "timeGrow": 9,
       "cares": 3,
