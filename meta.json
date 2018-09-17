@@ -202,6 +202,13 @@
       "grade": 2
     },
     {
+      "id": 222,
+      "name": "[경묘] 전방공격용 츄르",
+      "type": 203,
+      "value": 3,
+      "grade": 3
+    },
+    {
       "id": 230,
       "name": "[경묘] 1등공격용 수면제",
       "type": 204,
@@ -754,16 +761,7 @@
       "value": 1,
       "rewardId": 400,
       "rewardValue": 1
-    },
-    {
-      "level": 3,
-      "title": "경묘 1번 참가하기",
-      "category": 5,
-      "id": 0,
-      "value": 1,
-      "rewardId": 400,
-      "rewardValue": 1
-    },
+    },   
     {
       "level": 4,
       "title": "아이템 구매 1번 하기",
@@ -772,16 +770,7 @@
       "value": 1,
       "rewardId": 1,
       "rewardValue": 1
-    },
-    {
-      "level": 4,
-      "title": "경묘 5번 참가하기",
-      "category": 5,
-      "id": 0,
-      "value": 5,
-      "rewardId": 400,
-      "rewardValue": 1
-    },
+    },    
     {
       "level": 5,
       "title": "정어리 구매 1개 하기",
@@ -790,16 +779,7 @@
       "value": 1,
       "rewardId": 3,
       "rewardValue": 1
-    },
-    {
-      "level": 5,
-      "title": "경묘 15번 참가하기",
-      "category": 5,
-      "id": 0,
-      "value": 15,
-      "rewardId": 400,
-      "rewardValue": 1
-    },
+    },   
     {
       "level": 6,
       "title": "아이템 판매 1번 하기",
@@ -835,16 +815,7 @@
       "value": 300,
       "rewardId": 400,
       "rewardValue": 1
-    },
-    {
-      "level": 7,
-      "title": "경묘 50번 참여 하기",
-      "category": 5,
-      "id": 0,
-      "value": 50,
-      "rewardId": 400,
-      "rewardValue": 1
-    },
+    },    
     {
       "level": 7,
       "title": "경묘 1등 10번 하기",
@@ -862,16 +833,7 @@
       "value": 300,
       "rewardId": 400,
       "rewardValue": 1
-    },
-    {
-      "level": 8,
-      "title": "경묘 70번 참여 하기",
-      "category": 5,
-      "id": 0,
-      "value": 50,
-      "rewardId": 400,
-      "rewardValue": 1
-    },
+    },   
     {
       "level": 8,
       "title": "경묘 1등 20번 하기",
@@ -898,52 +860,7 @@
       "value": 300,
       "rewardId": 400,
       "rewardValue": 1
-    },
-    {
-      "level": 9,
-      "title": "경묘 참가 100번 하기",
-      "category": 5,
-      "id": 0,
-      "value": 10,
-      "rewardId": 400,
-      "rewardValue": 1
-    },
-    {
-      "level": 10,
-      "title": "농사 심기 1번 하기",
-      "category": 4,
-      "id": 0,
-      "value": 1,
-      "rewardId": 400,
-      "rewardValue": 1
-    },
-    {
-      "level": 10,
-      "title": "농사 돌보기 1번 하기",
-      "category": 4,
-      "id": 1,
-      "value": 1,
-      "rewardId": 400,
-      "rewardValue": 1
-    },
-    {
-      "level": 10,
-      "title": "농사 수확 1번 하기",
-      "category": 4,
-      "id": 2,
-      "value": 1,
-      "rewardId": 400,
-      "rewardValue": 1
-    },
-    {
-      "level": 10,
-      "title": "농사 수확량 10 채우기",
-      "category": 4,
-      "id": 3,
-      "value": 10,
-      "rewardId": 400,
-      "rewardValue": 1
-    },
+    },           
     {
       "level": 11,
       "title": "경묘 Friend 모드 1번 하기",
