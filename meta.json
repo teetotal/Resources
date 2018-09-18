@@ -283,35 +283,35 @@
       "name": "[씨앗] 바나나 씨앗",
       "type": 400,
       "value": 1,
-      "grade": 3
+      "grade": 4
     },
     {
       "id": 404,
       "name": "[씨앗] 블루베리 씨앗",
       "type": 400,
       "value": 1,
-      "grade": 3
+      "grade": 5
     },
     {
       "id": 405,
       "name": "[씨앗] 당근 씨앗",
       "type": 400,
       "value": 1,
-      "grade": 3
+      "grade": 6
     },
     {
       "id": 406,
       "name": "[씨앗] 체리 씨앗",
       "type": 400,
       "value": 1,
-      "grade": 3
+      "grade": 7
     },
     {
       "id": 407,
       "name": "[씨앗] 체리2 씨앗",
       "type": 400,
       "value": 1,
-      "grade": 3
+      "grade": 8
     },
     {
       "id": 1000,
@@ -403,46 +403,46 @@
     },
     {
       "id": 403,
-      "name": "lv.3",
+      "name": "lv.4",
       "farmProductId": 103,
       "outputMax": 1,
-      "timeGrow": 9,
+      "timeGrow": 15,
       "cares": 3,
       "maxOvertime": 600
     },
     {
       "id": 404,
-      "name": "lv.3",
+      "name": "lv.5",
       "farmProductId": 104,
       "outputMax": 1,
-      "timeGrow": 9,
+      "timeGrow": 30,
       "cares": 3,
       "maxOvertime": 600
     },
     {
       "id": 405,
-      "name": "lv.3",
+      "name": "lv.6",
       "farmProductId": 105,
       "outputMax": 1,
-      "timeGrow": 9,
+      "timeGrow": 50,
       "cares": 3,
       "maxOvertime": 600
     },
     {
       "id": 406,
-      "name": "lv.3",
+      "name": "lv.7",
       "farmProductId": 106,
       "outputMax": 1,
-      "timeGrow": 9,
+      "timeGrow": 100,
       "cares": 3,
       "maxOvertime": 600
     },
     {
       "id": 407,
-      "name": "lv.3",
+      "name": "lv.8",
       "farmProductId": 107,
       "outputMax": 1,
-      "timeGrow": 9,
+      "timeGrow": 140,
       "cares": 3,
       "maxOvertime": 600
     }
