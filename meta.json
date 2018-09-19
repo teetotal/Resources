@@ -4,63 +4,7 @@
     "updateInterval": 1800,
     "levelWeight": 12
   },
-  "items": [    
-    {
-      "id": 1,
-      "name": "쥐돌이",
-      "type": 1,
-      "value": 0,
-      "grade": 1
-    },
-    {
-      "id": 2,
-      "name": "정어리",
-      "type": 1,
-      "value": 0,
-      "grade": 1
-    },
-    {
-      "id": 3,
-      "name": "개다래나무 열매",
-      "type": 1,
-      "value": 1,
-      "grade": 1
-    },
-    {
-      "id": 4,
-      "name": "수련 장비",
-      "type": 1,
-      "value": 1,
-      "grade": 1
-    },
-    {
-      "id": 5,
-      "name": "고양이 방울",
-      "type": 1,
-      "value": 1,
-      "grade": 1
-    },
-    {
-      "id": 6,
-      "name": "기본 낚시 미끼",
-      "type": 1,
-      "value": 1,
-      "grade": 1
-    },
-    {
-      "id": 7,
-      "name": "고양이 장화",
-      "type": 1,
-      "value": 1,
-      "grade": 1
-    },
-    {
-      "id": 8,
-      "name": "개다래 술 재료",
-      "type": 1,
-      "value": 1,
-      "grade": 1
-    },
+  "items": [        
     {
       "id": 50,
       "name": "제법 비싼 장난감",
@@ -182,6 +126,13 @@
     },
     {
       "id": 215,
+      "name": "[경묘] 속업용 생선",
+      "type": 202,
+      "value": 6,
+      "grade": 6
+    },
+    {
+      "id": 216,
       "name": "[경묘] 속업용 생선",
       "type": 202,
       "value": 10,
@@ -760,7 +711,7 @@
       "category": 0,
       "id": 5,
       "value": 1,
-      "rewardId": 400,
+      "rewardId": 200,
       "rewardValue": 1
     },
     {
@@ -770,19 +721,9 @@
       "category": 1,
       "id": 0,
       "value": 1,
-      "rewardId": 1,
+      "rewardId": 200,
       "rewardValue": 1
-    },
-    {
-      "uniqueId": 202,
-      "level": 5,
-      "title": "정어리 구매 1개 하기",
-      "category": 1,
-      "id": 2,
-      "value": 1,
-      "rewardId": 3,
-      "rewardValue": 1
-    },
+    },   
     {
       "uniqueId": 203,
       "level": 6,
@@ -790,7 +731,7 @@
       "category": 2,
       "id": 0,
       "value": 1,
-      "rewardId": 4,
+      "rewardId": 200,
       "rewardValue": 1
     },
     {
@@ -800,7 +741,7 @@
       "category": 1,
       "id": 0,
       "value": 3,
-      "rewardId": 400,
+      "rewardId": 200,
       "rewardValue": 1
     },
     {
@@ -810,7 +751,7 @@
       "category": 3,
       "id": 0,
       "value": 1,
-      "rewardId": 400,
+      "rewardId": 200,
       "rewardValue": 1
     },
     {
@@ -820,19 +761,9 @@
       "category": 6,
       "id": 1,
       "value": 300,
-      "rewardId": 400,
+      "rewardId": 200,
       "rewardValue": 1
-    },
-    {
-      "uniqueId": 207,
-      "level": 7,
-      "title": "경묘 1등 10번 하기",
-      "category": 5,
-      "id": 1,
-      "value": 10,
-      "rewardId": 400,
-      "rewardValue": 1
-    },
+    },   
     {
       "uniqueId": 208,
       "level": 8,
@@ -840,19 +771,9 @@
       "category": 6,
       "id": 2,
       "value": 300,
-      "rewardId": 400,
+      "rewardId": 200,
       "rewardValue": 1
-    },
-    {
-      "uniqueId": 209,
-      "level": 8,
-      "title": "경묘 1등 20번 하기",
-      "category": 5,
-      "id": 1,
-      "value": 10,
-      "rewardId": 400,
-      "rewardValue": 1
-    },
+    },  
     {
       "uniqueId": 210,
       "level": 8,
@@ -860,7 +781,7 @@
       "category": 5,
       "id": 2,
       "value": 10,
-      "rewardId": 400,
+      "rewardId": 200,
       "rewardValue": 1
     },
     {
@@ -870,7 +791,7 @@
       "category": 6,
       "id": 3,
       "value": 300,
-      "rewardId": 400,
+      "rewardId": 200,
       "rewardValue": 1
     },
     {
@@ -880,7 +801,7 @@
       "category": 9,
       "id": 0,
       "value": 1,
-      "rewardId": 400,
+      "rewardId": 200,
       "rewardValue": 1
     }
   ]  

@@ -16,13 +16,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 1,
-						"quantity": 1
-					}
-				]
+				"point": 15,
+				"items": []
 			}
 		},
 		{
@@ -41,13 +36,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 2,
-						"quantity": 1
-					}
-				]
+				"point": 15,
+				"items": []
 			}
 		},
 		{
@@ -66,13 +56,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 3,
-						"quantity": 1
-					}
-				]
+				"point": 15,
+				"items": []
 			}
 		},
 		{
@@ -91,13 +76,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 1,
-						"quantity": 2
-					}
-				]
+				"point": 60,
+				"items": []
 			}
 		},
 		{
@@ -116,13 +96,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 2,
-						"quantity": 2
-					}
-				]
+				"point": 60,
+				"items": []
 			}
 		},
 		{
@@ -141,13 +116,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 3,
-						"quantity": 2
-					}
-				]
+				"point": 60,
+				"items": []
 			}
 		},
 		{
@@ -166,13 +136,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 1,
-						"quantity": 3
-					}
-				]
+				"point": 135,
+				"items": []
 			}
 		},
 		{
@@ -191,13 +156,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 2,
-						"quantity": 3
-					}
-				]
+				"point": 135,
+				"items": []
 			}
 		},
 		{
@@ -216,13 +176,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 3,
-						"quantity": 3
-					}
-				]
+				"point": 135,
+				"items": []
 			}
 		},
 		{
@@ -241,13 +196,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 1,
-						"quantity": 4
-					}
-				]
+				"point": 240,
+				"items": []
 			}
 		},
 		{
@@ -266,13 +216,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 2,
-						"quantity": 4
-					}
-				]
+				"point": 240,
+				"items": []
 			}
 		},
 		{
@@ -291,13 +236,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 3,
-						"quantity": 4
-					}
-				]
+				"point": 240,
+				"items": []
 			}
 		},
 		{
@@ -316,13 +256,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 4,
-						"quantity": 5
-					}
-				]
+				"point": 375,
+				"items": []
 			}
 		},
 		{
@@ -341,13 +276,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 5,
-						"quantity": 5
-					}
-				]
+				"point": 375,
+				"items": []
 			}
 		},
 		{
@@ -366,13 +296,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 6,
-						"quantity": 5
-					}
-				]
+				"point": 375,
+				"items": []
 			}
 		},
 		{
@@ -391,13 +316,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 4,
-						"quantity": 6
-					}
-				]
+				"point": 540,
+				"items": []
 			}
 		},
 		{
@@ -416,13 +336,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 5,
-						"quantity": 6
-					}
-				]
+				"point": 540,
+				"items": []
 			}
 		},
 		{
@@ -441,13 +356,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 6,
-						"quantity": 6
-					}
-				]
+				"point": 540,
+				"items": []
 			}
 		},
 		{
@@ -466,13 +376,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 4,
-						"quantity": 7
-					}
-				]
+				"point": 735,
+				"items": []
 			}
 		},
 		{
@@ -491,13 +396,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 5,
-						"quantity": 7
-					}
-				]
+				"point": 735,
+				"items": []
 			}
 		},
 		{
@@ -516,13 +416,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 6,
-						"quantity": 7
-					}
-				]
+				"point": 735,
+				"items": []
 			}
 		},
 		{
@@ -541,13 +436,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 4,
-						"quantity": 8
-					}
-				]
+				"point": 960,
+				"items": []
 			}
 		},
 		{
@@ -566,13 +456,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 5,
-						"quantity": 8
-					}
-				]
+				"point": 960,
+				"items": []
 			}
 		},
 		{
@@ -591,13 +476,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 6,
-						"quantity": 8
-					}
-				]
+				"point": 960,
+				"items": []
 			}
 		},
 		{
@@ -616,13 +496,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 7,
-						"quantity": 9
-					}
-				]
+				"point": 1215,
+				"items": []
 			}
 		},
 		{
@@ -641,13 +516,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 7,
-						"quantity": 10
-					}
-				]
+				"point": 1500,
+				"items": []
 			}
 		},
 		{
@@ -666,13 +536,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 7,
-						"quantity": 11
-					}
-				]
+				"point": 1815,
+				"items": []
 			}
 		},
 		{
@@ -691,13 +556,8 @@
 				"strength": 0,
 				"intelligence": 0,
 				"appeal": 0,
-				"point": 0,
-				"items": [
-					{
-						"id": 7,
-						"quantity": 12
-					}
-				]
+				"point": 2160,
+				"items": []
 			}
 		}
 	]
