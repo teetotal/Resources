@@ -286,39 +286,46 @@
       "grade": 1
     },
     {
-      "id": 1003,
-      "name": "[도감] 할머니 신발한짝",
-      "type": 1000,
-      "value": 0,
-      "grade": 1
-    },
-    {
-      "id": 1004,
-      "name": "[도감] 죽은 쥐",
-      "type": 1000,
-      "value": 0,
-      "grade": 1
-    },
-    {
       "id": 1100,
-      "name": "[도감] 18k 순금 반지",
+      "name": "[도감] 할머니 신발한짝",
       "type": 1000,
       "value": 0,
       "grade": 2
     },
     {
       "id": 1101,
-      "name": "[도감] 고양이 장화",
+      "name": "[도감] 죽은 쥐",
       "type": 1000,
       "value": 0,
       "grade": 2
     },
     {
       "id": 1200,
-      "name": "[도감] 외계인의 동전지갑",
+      "name": "[도감] 18k 순금 반지",
       "type": 1000,
       "value": 0,
       "grade": 3
+    },
+    {
+      "id": 1201,
+      "name": "[도감] 고양이 장화",
+      "type": 1000,
+      "value": 0,
+      "grade": 3
+    },
+    {
+      "id": 1300,
+      "name": "[도감] 외계인의 동전지갑",
+      "type": 1000,
+      "value": 0,
+      "grade": 4
+    },
+    {
+      "id": 1400,
+      "name": "[도감] 어느 6섬 세계의 나뭇가지",
+      "type": 1000,
+      "value": 0,
+      "grade": 5
     }
   ],
   "farming": {
@@ -399,173 +406,41 @@
     }
   ],
   "race": [
-    {
-      "id": 1,
+    {      
       "mode": 0,
-      "title": "[매봉산 숲속 마을 부녀회 주관] 아이템 경묘 대회",
-      "level": 1,
-      "min": 30,
-      "max": 300,
-      "fee": 200,
-      "rewards": [
-        {
-          "prize": 600,
-          "items": []
-        },
-        {
-          "prize": 500,
-          "items": []
-        }
-      ]
+      "title": "[매봉산 숲속 마을 부녀회 주관] 아이템 경묘 대회"      
     },
     {
-      "id": 2,
       "mode": 0,
-      "title": "[상암동 노인회 주관] 아이템 경묘 대회",
-      "level": 2,
-      "min": 300,
-      "max": 600,
-      "fee": 300,
-      "rewards": [
-        {
-          "prize": 1200,
-          "items": [
-            {
-              "id": 1004,
-              "quantity": 3
-            },
-            {
-              "id": 100,
-              "quantity": 8
-            }
-          ]
-        },
-        {
-          "prize": 900,
-          "items": [
-            {
-              "id": 1001,
-              "quantity": 3
-            },
-            {
-              "id": 100,
-              "quantity": 8
-            }
-          ]
-        }
-      ]
+      "title": "[상암동 노인회 주관] 아이템 경묘 대회"
     },
     {
-      "id": 3,
       "mode": 0,
-      "title": "[범국민 애묘연합회 주관] 아이템 경묘 대회",
-      "level": 3,
-      "min": 600,
-      "max": 1000,
-      "fee": 400,
-      "rewards": [
-        {
-          "prize": 1800,
-          "items": [
-            {
-              "id": 1004,
-              "quantity": 3
-            },
-            {
-              "id": 100,
-              "quantity": 10
-            }
-          ]
-        },
-        {
-          "prize": 1500,
-          "items": [
-            {
-              "id": 1001,
-              "quantity": 3
-            },
-            {
-              "id": 100,
-              "quantity": 8
-            }
-          ]
-        }
-      ]
+      "title": "[범국민 애묘연합회 주관] 아이템 경묘 대회"
     },
     {
-      "id": 10,
       "mode": 0,
-      "title": "[길고양이 연합회 주관] 인생 뭐있냥 아이템 경묘대회",
-      "level": 10,
-      "min": 30,
-      "max": 2000,
-      "fee": 500,
-      "rewards": [
-        {
-          "prize": 8000,
-          "items": [
-            {
-              "id": 1100,
-              "quantity": 3
-            },
-            {
-              "id": 100,
-              "quantity": 10
-            }
-          ]
-        },
-        {
-          "prize": 4000,
-          "items": [
-            {
-              "id": 1001,
-              "quantity": 3
-            },
-            {
-              "id": 100,
-              "quantity": 8
-            }
-          ]
-        }
-      ]
+      "title": "[길고양이 연합회 주관] 인생 뭐있냥 아이템 경묘대회"
     },
     {
-      "id": 100,
       "mode": 1,
-      "title": "[전국 고양이탈 알바생 주관] 스피드 경묘 대회",
-      "level": 1,
-      "min": 30,
-      "max": 500,
-      "fee": 200,
-      "rewards": [
-        {
-          "prize": 600,
-          "items": []
-        },
-        {
-          "prize": 500,
-          "items": []
-        }
-      ]
+      "title": "[전국 고양이탈 알바생 주관] 스피드 경묘 대회"
     },
     {
-      "id": 101,
       "mode": 1,
-      "title": "[옆동네 해병전우회 주최] 스피드 경묘 대회",
-      "level": 2,
-      "min": 500,
-      "max": 1000,
-      "fee": 400,
-      "rewards": [
-        {
-          "prize": 1000,
-          "items": []
-        },
-        {
-          "prize": 800,
-          "items": []
-        }
-      ]
+      "title": "[옆동네 해병전우회 주최] 스피드 경묘 대회"
+    },
+    {
+      "mode": 1,
+      "title": "[고양인 줄 알았는데 살쾡이 주관] 스피드 경묘 대회"
+    },
+    {
+      "mode": 1,
+      "title": "[우리집 양념 고양이 주최] 스피드 경묘 대회"
+    },
+    {      
+      "mode": 2,
+      "title": "진검 승부 1 vs 1 아이템 경묘"
     }
   ],
   "errors": [
@@ -703,19 +578,9 @@
       }
     ]
   },
-  "achievement": [
+  "achievement": [    
     {
       "uniqueId": 200,
-      "level": 2,
-      "title": "필살 애교 공부 1번 하기",
-      "category": 0,
-      "id": 5,
-      "value": 1,
-      "rewardId": 200,
-      "rewardValue": 1
-    },
-    {
-      "uniqueId": 201,
       "level": 4,
       "title": "아이템 구매 1번 하기",
       "category": 1,
@@ -725,7 +590,7 @@
       "rewardValue": 1
     },   
     {
-      "uniqueId": 203,
+      "uniqueId": 201,
       "level": 6,
       "title": "아이템 판매 1번 하기",
       "category": 2,
@@ -735,7 +600,7 @@
       "rewardValue": 1
     },
     {
-      "uniqueId": 204,
+      "uniqueId": 202,
       "level": 6,
       "title": "아이템 구매 3번 하기",
       "category": 1,
@@ -745,7 +610,7 @@
       "rewardValue": 1
     },
     {
-      "uniqueId": 205,
+      "uniqueId": 210,
       "level": 7,
       "title": "하트 충전 1번 하기",
       "category": 3,
@@ -755,50 +620,50 @@
       "rewardValue": 1
     },
     {
-      "uniqueId": 206,
-      "level": 7,
-      "title": "체력 능력 300 만들기",
-      "category": 6,
-      "id": 1,
-      "value": 300,
-      "rewardId": 200,
-      "rewardValue": 1
-    },   
-    {
-      "uniqueId": 208,
+      "uniqueId": 220,
       "level": 8,
-      "title": "지력 능력 300 만들기",
-      "category": 6,
-      "id": 2,
-      "value": 300,
-      "rewardId": 200,
-      "rewardValue": 1
-    },  
-    {
-      "uniqueId": 210,
-      "level": 8,
-      "title": "경묘 2등 10번 하기",
+      "title": "경묘 2등 3번 하기",
       "category": 5,
       "id": 2,
-      "value": 10,
+      "value": 3,
       "rewardId": 200,
       "rewardValue": 1
     },
     {
-      "uniqueId": 211,
-      "level": 9,
-      "title": "매력 능력 300 만들기",
-      "category": 6,
-      "id": 3,
-      "value": 300,
-      "rewardId": 200,
-      "rewardValue": 1
-    },
-    {
-      "uniqueId": 212,
+      "uniqueId": 221,
       "level": 11,
       "title": "경묘 Friend 모드 1번 하기",
+      "category": 10,
+      "id": 0,
+      "value": 1,
+      "rewardId": 200,
+      "rewardValue": 1
+    },
+    {
+      "uniqueId": 222,
+      "level": 5,
+      "title": "경묘 1vs1 모드 1번 하기",
       "category": 9,
+      "id": 0,
+      "value": 1,
+      "rewardId": 200,
+      "rewardValue": 1
+    },
+    {
+      "uniqueId": 223,
+      "level": 4,
+      "title": "경묘 Speed 모드 1번 하기",
+      "category": 8,
+      "id": 0,
+      "value": 1,
+      "rewardId": 200,
+      "rewardValue": 1
+    },
+    {
+      "uniqueId": 223,
+      "level": 2,
+      "title": "경묘 Item 모드 1번 하기",
+      "category": 7,
       "id": 0,
       "value": 1,
       "rewardId": 200,
