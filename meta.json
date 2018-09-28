@@ -84,112 +84,112 @@
     },
     {
       "id": 200,
-      "name": "[경묘] 쉴드용 고양이 부적",
+      "name": "쉴드용 고양이 부적",
       "type": 201,
       "value": 1,
       "grade": 1
     },
     {
       "id": 210,
-      "name": "[경묘] 속업용 생선",
+      "name": "속업용 생선",
       "type": 202,
       "value": 1,
       "grade": 1
     },
     {
       "id": 211,
-      "name": "[경묘] 속업용 생선",
+      "name": "속업용 생선",
       "type": 202,
       "value": 2,
       "grade": 2
     },
     {
       "id": 212,
-      "name": "[경묘] 속업용 생선",
+      "name": "속업용 생선",
       "type": 202,
       "value": 3,
       "grade": 3
     },
     {
       "id": 213,
-      "name": "[경묘] 속업용 생선",
+      "name": "속업용 생선",
       "type": 202,
       "value": 4,
       "grade": 4
     },
     {
       "id": 214,
-      "name": "[경묘] 속업용 생선",
+      "name": "속업용 생선",
       "type": 202,
       "value": 5,
       "grade": 5
     },
     {
       "id": 215,
-      "name": "[경묘] 속업용 생선",
+      "name": "속업용 생선",
       "type": 202,
       "value": 6,
       "grade": 6
     },
     {
       "id": 216,
-      "name": "[경묘] 속업용 생선",
+      "name": "속업용 생선",
       "type": 202,
       "value": 10,
       "grade": 10
     },
     {
       "id": 220,
-      "name": "[경묘] 전방공격용 츄르",
+      "name": "전방공격용 츄르",
       "type": 203,
       "value": 1,
       "grade": 1
     },
     {
       "id": 221,
-      "name": "[경묘] 전방공격용 츄르",
+      "name": "전방공격용 츄르",
       "type": 203,
       "value": 2,
       "grade": 2
     },
     {
       "id": 222,
-      "name": "[경묘] 전방공격용 츄르",
+      "name": "전방공격용 츄르",
       "type": 203,
       "value": 3,
       "grade": 3
     },
     {
       "id": 230,
-      "name": "[경묘] 1등공격용 수면제",
+      "name": "1등공격용 수면제",
       "type": 204,
       "value": 1,
       "grade": 1
     },
     {
       "id": 231,
-      "name": "[경묘] 1등공격용 수면제",
+      "name": "1등공격용 수면제",
       "type": 204,
       "value": 2,
       "grade": 2
     },
     {
       "id": 232,
-      "name": "[경묘] 1등공격용 수면제",
+      "name": "1등공격용 수면제",
       "type": 204,
       "value": 3,
       "grade": 3
     },
     {
       "id": 233,
-      "name": "[경묘] 1등공격용 수면제",
+      "name": "1등공격용 수면제",
       "type": 204,
       "value": 4,
       "grade": 4
     },
     {
       "id": 234,
-      "name": "[경묘] 1등공격용 수면제",
+      "name": "1등공격용 수면제",
       "type": 204,
       "value": 5,
       "grade": 5
@@ -635,7 +635,7 @@
       "uniqueId": 220,
       "level": 8,
       "title": "경묘 2등 3번 하기",
-      "category": 5,
+      "category": 6,
       "id": 2,
       "value": 3,
       "rewardId": 200,
@@ -645,7 +645,7 @@
       "uniqueId": 221,
       "level": 11,
       "title": "경묘 Friend 모드 1번 하기",
-      "category": 10,
+      "category": 12,
       "id": 0,
       "value": 1,
       "rewardId": 200,
@@ -655,7 +655,7 @@
       "uniqueId": 222,
       "level": 5,
       "title": "경묘 1vs1 모드 1번 하기",
-      "category": 9,
+      "category": 11,
       "id": 0,
       "value": 1,
       "rewardId": 200,
@@ -665,7 +665,7 @@
       "uniqueId": 223,
       "level": 4,
       "title": "경묘 Speed 모드 1번 하기",
-      "category": 8,
+      "category": 10,
       "id": 0,
       "value": 1,
       "rewardId": 200,
@@ -675,7 +675,7 @@
       "uniqueId": 224,
       "level": 2,
       "title": "경묘 Item 모드 1번 하기",
-      "category": 7,
+      "category": 9,
       "id": 0,
       "value": 1,
       "rewardId": 200,
