@@ -37,50 +37,113 @@
       "id": 101,
       "name": "[보조식품] 노란 사과",
       "type": 101,
-      "value": 3,
+      "value": 2,
       "grade": 2
     },
     {
       "id": 102,
       "name": "[보조식품] 빨간 사과",
       "type": 101,
-      "value": 5,
+      "value": 3,
       "grade": 3
     },
     {
       "id": 103,
       "name": "[보조식품] 바나나",
       "type": 101,
-      "value": 7,
+      "value": 4,
       "grade": 4
     },
     {
       "id": 104,
       "name": "[보조식품] 블루베리",
       "type": 101,
-      "value": 7,
-      "grade": 4
+      "value": 5,
+      "grade": 5
     },
     {
       "id": 105,
       "name": "[보조식품] 당근",
       "type": 101,
-      "value": 7,
-      "grade": 4
+      "value": 6,
+      "grade": 6
     },
     {
       "id": 106,
       "name": "[보조식품] 체리",
       "type": 101,
       "value": 7,
-      "grade": 4
+      "grade": 7
     },
     {
       "id": 107,
       "name": "[보조식품] 체리2",
       "type": 101,
-      "value": 7,
-      "grade": 4
+      "value": 8,
+      "grade": 8
+    },
+    {
+      "id": 108,
+      "name": "[보조식품] 호박",
+      "type": 101,
+      "value": 9,
+      "grade": 9
+    },
+    {
+      "id": 109,
+      "name": "[보조식품] 수박",
+      "type": 101,
+      "value": 10,
+      "grade": 10
+    },
+    {
+      "id": 110,
+      "name": "[보조식품] 아몰랑",
+      "type": 101,
+      "value": 11,
+      "grade": 11
+    },
+    {
+      "id": 111,
+      "name": "[보조식품] 더몰랑",
+      "type": 101,
+      "value": 12,
+      "grade": 12
+    },
+    {
+      "id": 112,
+      "name": "[보조식품] 포도",
+      "type": 101,
+      "value": 13,
+      "grade": 13
+    },
+    {
+      "id": 113,
+      "name": "[보조식품] 뽀도",
+      "type": 101,
+      "value": 14,
+      "grade": 14
+    },
+    {
+      "id": 114,
+      "name": "[보조식품] 키위",
+      "type": 101,
+      "value": 15,
+      "grade": 15
+    },
+    {
+      "id": 115,
+      "name": "[보조식품] 레몬",
+      "type": 101,
+      "value": 16,
+      "grade": 16
+    },
+    {
+      "id": 116,
+      "name": "[보조식품] 싸과",
+      "type": 101,
+      "value": 17,
+      "grade": 17
     },
     {
       "id": 200,
@@ -116,6 +179,41 @@
       "type": 201,
       "value": 5,
       "grade": 5
+    },
+    {
+      "id": 205,
+      "name": "쉴드용 고양이 부적",
+      "type": 201,
+      "value": 6,
+      "grade": 6
+    },
+    {
+      "id": 206,
+      "name": "쉴드용 고양이 부적",
+      "type": 201,
+      "value": 7,
+      "grade": 7
+    },
+    {
+      "id": 207,
+      "name": "쉴드용 고양이 부적",
+      "type": 201,
+      "value": 8,
+      "grade": 8
+    },
+    {
+      "id": 208,
+      "name": "쉴드용 고양이 부적",
+      "type": 201,
+      "value": 9,
+      "grade": 9
+    },
+    {
+      "id": 209,
+      "name": "쉴드용 고양이 부적",
+      "type": 201,
+      "value": 10,
+      "grade": 10
     },
     {
       "id": 210,
@@ -163,6 +261,27 @@
       "id": 216,
       "name": "속업용 생선",
       "type": 202,
+      "value": 7,
+      "grade": 7
+    },
+    {
+      "id": 217,
+      "name": "속업용 생선",
+      "type": 202,
+      "value": 8,
+      "grade": 8
+    },
+    {
+      "id": 218,
+      "name": "속업용 생선",
+      "type": 202,
+      "value": 9,
+      "grade": 9
+    },
+    {
+      "id": 219,
+      "name": "속업용 생선",
+      "type": 202,
       "value": 10,
       "grade": 10
     },
@@ -186,6 +305,55 @@
       "type": 203,
       "value": 3,
       "grade": 3
+    },
+    {
+      "id": 223,
+      "name": "전방공격용 츄르",
+      "type": 203,
+      "value": 4,
+      "grade": 4
+    },
+    {
+      "id": 224,
+      "name": "전방공격용 츄르",
+      "type": 203,
+      "value": 5,
+      "grade": 5
+    },
+    {
+      "id": 225,
+      "name": "전방공격용 츄르",
+      "type": 203,
+      "value": 6,
+      "grade": 6
+    },
+    {
+      "id": 226,
+      "name": "전방공격용 츄르",
+      "type": 203,
+      "value": 7,
+      "grade": 7
+    },
+    {
+      "id": 227,
+      "name": "전방공격용 츄르",
+      "type": 203,
+      "value": 8,
+      "grade": 8
+    },
+    {
+      "id": 228,
+      "name": "전방공격용 츄르",
+      "type": 203,
+      "value": 9,
+      "grade": 9
+    },
+    {
+      "id": 229,
+      "name": "전방공격용 츄르",
+      "type": 203,
+      "value": 10,
+      "grade": 10
     },
     {
       "id": 230,
@@ -221,6 +389,41 @@
       "type": 204,
       "value": 5,
       "grade": 5
+    },
+    {
+      "id": 235,
+      "name": "1등공격용 수면제",
+      "type": 204,
+      "value": 6,
+      "grade": 6
+    },
+    {
+      "id": 236,
+      "name": "1등공격용 수면제",
+      "type": 204,
+      "value": 7,
+      "grade": 7
+    },
+    {
+      "id": 237,
+      "name": "1등공격용 수면제",
+      "type": 204,
+      "value": 8,
+      "grade": 8
+    },
+    {
+      "id": 238,
+      "name": "1등공격용 수면제",
+      "type": 204,
+      "value": 9,
+      "grade": 9
+    },
+    {
+      "id": 239,
+      "name": "1등공격용 수면제",
+      "type": 204,
+      "value": 10,
+      "grade": 10
     },
     {
       "id": 300,
@@ -291,6 +494,69 @@
       "type": 400,
       "value": 1,
       "grade": 8
+    },
+    {
+      "id": 408,
+      "name": "[씨앗] 호박 씨앗",
+      "type": 400,
+      "value": 1,
+      "grade": 9
+    },
+    {
+      "id": 409,
+      "name": "[씨앗] 수박 씨앗",
+      "type": 400,
+      "value": 1,
+      "grade": 10
+    },
+    {
+      "id": 410,
+      "name": "[씨앗] 아몰랑 씨앗",
+      "type": 400,
+      "value": 1,
+      "grade": 11
+    },
+    {
+      "id": 411,
+      "name": "[씨앗] 더몰랑 씨앗",
+      "type": 400,
+      "value": 1,
+      "grade": 12
+    },
+    {
+      "id": 412,
+      "name": "[씨앗] 포도 씨앗",
+      "type": 400,
+      "value": 1,
+      "grade": 13
+    },
+    {
+      "id": 413,
+      "name": "[씨앗] 뽀도 씨앗",
+      "type": 400,
+      "value": 1,
+      "grade": 14
+    },
+    {
+      "id": 414,
+      "name": "[씨앗] 키위 씨앗",
+      "type": 400,
+      "value": 1,
+      "grade": 15
+    },
+    {
+      "id": 415,
+      "name": "[씨앗] 레몬 씨앗",
+      "type": 400,
+      "value": 1,
+      "grade": 16
+    },
+    {
+      "id": 416,
+      "name": "[씨앗] 싸과 씨앗",
+      "type": 400,
+      "value": 1,
+      "grade": 17
     },
     {
       "id": 1000,
@@ -431,6 +697,78 @@
       "timeGrow": 140,
       "cares": 3,
       "maxOvertime": 600
+    },
+    {
+      "id": 408,
+      "name": "lv.9",
+      "farmProductId": 108,
+      "outputMax": 1,
+      "timeGrow": 180,
+      "cares": 3,
+      "maxOvertime": 1600
+    },
+    {
+      "id": 409,
+      "name": "lv.10",
+      "farmProductId": 109,
+      "outputMax": 1,
+      "timeGrow": 200,
+      "cares": 3,
+      "maxOvertime": 1800
+    },
+    {
+      "id": 410,
+      "name": "lv.11",
+      "farmProductId": 110,
+      "outputMax": 1,
+      "timeGrow": 240,
+      "cares": 3,
+      "maxOvertime": 2000
+    },
+    {
+      "id": 411,
+      "name": "lv.12",
+      "farmProductId": 111,
+      "outputMax": 1,
+      "timeGrow": 280,
+      "cares": 3,
+      "maxOvertime": 2600
+    },
+    {
+      "id": 412,
+      "name": "lv.13",
+      "farmProductId": 112,
+      "outputMax": 1,
+      "timeGrow": 300,
+      "cares": 3,
+      "maxOvertime": 2800
+    },
+    {
+      "id": 413,
+      "name": "lv.14",
+      "farmProductId": 113,
+      "outputMax": 1,
+      "timeGrow": 340,
+      "cares": 3,
+      "maxOvertime": 2800
+    },
+    {
+      "id": 414,
+      "name": "lv.15",
+      "farmProductId": 114,
+      "outputMax": 1,
+      "timeGrow": 400,
+      "cares": 3,
+      "maxOvertime": 3600
+    },
+    {
+      "id": 415,
+      "name": "lv.16",
+      "farmProductId": 115,
+      "outputMax": 1,
+      "timeGrow": 440,
+      "cares": 3,
+      "maxOvertime": 4600
     }
   ],
   "race": [
@@ -448,7 +786,19 @@
     },
     {
       "mode": 0,
-      "title": "[길고양이 연합회 주관] 인생 뭐있냥 아이템 경묘대회"
+      "title": "[길고양이 연합회 주관] 아이템 경묘대회"
+    },
+    {
+      "mode": 0,
+      "title": "[마포구 애묘인 연합회 주관] 아이템 경묘대회"
+    },
+    {
+      "mode": 0,
+      "title": "[서울시 애묘인 연합회 주관] 아이템 경묘대회"
+    },
+    {
+      "mode": 0,
+      "title": "[전국 애묘인 연합회 주관] 아이템 경묘대회"
     },
     {
       "mode": 1,
@@ -467,6 +817,18 @@
       "title": "[우리집 양념 고양이 주최] 스피드 경묘 대회"
     },
     {
+      "mode": 1,
+      "title": "[성산동 통장배] 스피드 경묘 대회"
+    },
+    {
+      "mode": 1,
+      "title": "[제습기 완전 좋아배] 스피드 경묘 대회"
+    },
+    {
+      "mode": 1,
+      "title": "[부자되면 놀거얌] 스피드 경묘 대회"
+    },
+    {
       "mode": 2,
       "title": "맞짱 1 vs 1 경묘"
     },
@@ -481,6 +843,18 @@
     {
       "mode": 2,
       "title": "진검 승부 1 vs 1 아이템 경묘"
+    },
+    {
+      "mode": 2,
+      "title": "쟨 맨날 앞에 있어 1 vs 1 아이템 경묘"
+    },
+    {
+      "mode": 2,
+      "title": "점프가 어려워 1 vs 1 아이템 경묘"
+    },
+    {
+      "mode": 2,
+      "title": "하다보니 내일 아침 1 vs 1 아이템 경묘"
     }
   ],
   "errors": [
