@@ -146,286 +146,6 @@
       "grade": 17
     },
     {
-      "id": 200,
-      "name": "쉴드용 고양이 부적",
-      "type": 201,
-      "value": 1,
-      "grade": 1
-    },
-    {
-      "id": 201,
-      "name": "쉴드용 고양이 부적",
-      "type": 201,
-      "value": 2,
-      "grade": 2
-    },
-    {
-      "id": 202,
-      "name": "쉴드용 고양이 부적",
-      "type": 201,
-      "value": 3,
-      "grade": 3
-    },
-    {
-      "id": 203,
-      "name": "쉴드용 고양이 부적",
-      "type": 201,
-      "value": 4,
-      "grade": 4
-    },
-    {
-      "id": 204,
-      "name": "쉴드용 고양이 부적",
-      "type": 201,
-      "value": 5,
-      "grade": 5
-    },
-    {
-      "id": 205,
-      "name": "쉴드용 고양이 부적",
-      "type": 201,
-      "value": 6,
-      "grade": 6
-    },
-    {
-      "id": 206,
-      "name": "쉴드용 고양이 부적",
-      "type": 201,
-      "value": 7,
-      "grade": 7
-    },
-    {
-      "id": 207,
-      "name": "쉴드용 고양이 부적",
-      "type": 201,
-      "value": 8,
-      "grade": 8
-    },
-    {
-      "id": 208,
-      "name": "쉴드용 고양이 부적",
-      "type": 201,
-      "value": 9,
-      "grade": 9
-    },
-    {
-      "id": 209,
-      "name": "쉴드용 고양이 부적",
-      "type": 201,
-      "value": 10,
-      "grade": 10
-    },
-    {
-      "id": 210,
-      "name": "속업용 생선",
-      "type": 202,
-      "value": 1,
-      "grade": 1
-    },
-    {
-      "id": 211,
-      "name": "속업용 생선",
-      "type": 202,
-      "value": 2,
-      "grade": 2
-    },
-    {
-      "id": 212,
-      "name": "속업용 생선",
-      "type": 202,
-      "value": 3,
-      "grade": 3
-    },
-    {
-      "id": 213,
-      "name": "속업용 생선",
-      "type": 202,
-      "value": 4,
-      "grade": 4
-    },
-    {
-      "id": 214,
-      "name": "속업용 생선",
-      "type": 202,
-      "value": 5,
-      "grade": 5
-    },
-    {
-      "id": 215,
-      "name": "속업용 생선",
-      "type": 202,
-      "value": 6,
-      "grade": 6
-    },
-    {
-      "id": 216,
-      "name": "속업용 생선",
-      "type": 202,
-      "value": 7,
-      "grade": 7
-    },
-    {
-      "id": 217,
-      "name": "속업용 생선",
-      "type": 202,
-      "value": 8,
-      "grade": 8
-    },
-    {
-      "id": 218,
-      "name": "속업용 생선",
-      "type": 202,
-      "value": 9,
-      "grade": 9
-    },
-    {
-      "id": 219,
-      "name": "속업용 생선",
-      "type": 202,
-      "value": 10,
-      "grade": 10
-    },
-    {
-      "id": 220,
-      "name": "전방공격용 츄르",
-      "type": 203,
-      "value": 1,
-      "grade": 1
-    },
-    {
-      "id": 221,
-      "name": "전방공격용 츄르",
-      "type": 203,
-      "value": 2,
-      "grade": 2
-    },
-    {
-      "id": 222,
-      "name": "전방공격용 츄르",
-      "type": 203,
-      "value": 3,
-      "grade": 3
-    },
-    {
-      "id": 223,
-      "name": "전방공격용 츄르",
-      "type": 203,
-      "value": 4,
-      "grade": 4
-    },
-    {
-      "id": 224,
-      "name": "전방공격용 츄르",
-      "type": 203,
-      "value": 5,
-      "grade": 5
-    },
-    {
-      "id": 225,
-      "name": "전방공격용 츄르",
-      "type": 203,
-      "value": 6,
-      "grade": 6
-    },
-    {
-      "id": 226,
-      "name": "전방공격용 츄르",
-      "type": 203,
-      "value": 7,
-      "grade": 7
-    },
-    {
-      "id": 227,
-      "name": "전방공격용 츄르",
-      "type": 203,
-      "value": 8,
-      "grade": 8
-    },
-    {
-      "id": 228,
-      "name": "전방공격용 츄르",
-      "type": 203,
-      "value": 9,
-      "grade": 9
-    },
-    {
-      "id": 229,
-      "name": "전방공격용 츄르",
-      "type": 203,
-      "value": 10,
-      "grade": 10
-    },
-    {
-      "id": 230,
-      "name": "1등공격용 수면제",
-      "type": 204,
-      "value": 1,
-      "grade": 1
-    },
-    {
-      "id": 231,
-      "name": "1등공격용 수면제",
-      "type": 204,
-      "value": 2,
-      "grade": 2
-    },
-    {
-      "id": 232,
-      "name": "1등공격용 수면제",
-      "type": 204,
-      "value": 3,
-      "grade": 3
-    },
-    {
-      "id": 233,
-      "name": "1등공격용 수면제",
-      "type": 204,
-      "value": 4,
-      "grade": 4
-    },
-    {
-      "id": 234,
-      "name": "1등공격용 수면제",
-      "type": 204,
-      "value": 5,
-      "grade": 5
-    },
-    {
-      "id": 235,
-      "name": "1등공격용 수면제",
-      "type": 204,
-      "value": 6,
-      "grade": 6
-    },
-    {
-      "id": 236,
-      "name": "1등공격용 수면제",
-      "type": 204,
-      "value": 7,
-      "grade": 7
-    },
-    {
-      "id": 237,
-      "name": "1등공격용 수면제",
-      "type": 204,
-      "value": 8,
-      "grade": 8
-    },
-    {
-      "id": 238,
-      "name": "1등공격용 수면제",
-      "type": 204,
-      "value": 9,
-      "grade": 9
-    },
-    {
-      "id": 239,
-      "name": "1등공격용 수면제",
-      "type": 204,
-      "value": 10,
-      "grade": 10
-    },
-    {
       "id": 300,
       "name": "[꾸미기] 토끼머리띠",
       "type": 301,
@@ -857,6 +577,24 @@
       "title": "하다보니 내일 아침 1 vs 1 아이템 경묘"
     }
   ],
+  "raceItems": [
+    {
+      "name": "방어용 고양이 부적",
+      "type": 201
+    },
+    {
+      "name": "속업용 생선",
+      "type": 202
+    },
+    {
+      "name": "전방공격용 츄르",
+      "type": 203
+    },
+    {
+      "name": "1등공격용 수면제",
+      "type": 204
+    }
+  ],
   "errors": [
     "성공",
     "추카추카 레벨업!!",
@@ -873,6 +611,16 @@
     "아직 오픈할 시간이 아니에요",
     "레벨이 부족해요"
   ],
+  "L10N": {
+    "QUEST_TITLE_PROPERTY": "능력치 %d 올리기",
+    "QUEST_TITLE_ACTION": "%s %d번 하기",
+    "QUEST_TITLE_RACE_WIN": "경묘 1등 %d번 하기",
+    "QUEST_TITLE_RACE_ITEM_FOREMOST": "경묘 1등 공격 아이템 %d번 사용하기",
+    "QUEST_TITLE_RACE_ITEM_FRONT": "경묘 전방 공격 아이템 %d번 사용하기",
+    "QUEST_TITLE_RACE_ITEM_SPEEDUP": "경묘 속업 아이템 %d번 사용하기",
+    "QUEST_TITLE_RACE_ITEM_SHIELD": "경묘 방어 아이템 %d번 사용하기",
+    "QUEST_TITLE_FARM_SEED": "농사 %d번 씨 뿌리기"
+  },
   "jobTitle": {
     "default": "이번생은 망했어묘",
     "prefix": [
