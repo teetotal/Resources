@@ -613,7 +613,7 @@
   ],
   "L10N": {
     "QUEST_TITLE_PROPERTY": "능력치 %d 올리기",
-    "QUEST_TITLE_ACTION": "%s %d번 하기",
+    "QUEST_TITLE_ACTION": " %d번 하기",
     "QUEST_TITLE_RACE_WIN": "경묘 1등 %d번 하기",
     "QUEST_TITLE_RACE_ITEM_FOREMOST": "경묘 1등 공격 아이템 %d번 사용하기",
     "QUEST_TITLE_RACE_ITEM_FRONT": "경묘 전방 공격 아이템 %d번 사용하기",
