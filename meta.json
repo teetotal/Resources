@@ -612,6 +612,9 @@
     "레벨이 부족해요"
   ],
   "L10N": {
+    "LEVEL_UP": "레벨 업! %d",
+    "ACTION_TAP": "최대한 많이 화면을 터치하세요",
+    "ACTION_TOUCH": "움직이는 쥐 최대한 많이 잡으세요",
     "QUEST_TITLE_PROPERTY": "능력치 %d 올리기",
     "QUEST_TITLE_ACTION": " %d번 하기",
     "QUEST_TITLE_RACE_WIN": "경묘 1등 %d번 하기",
