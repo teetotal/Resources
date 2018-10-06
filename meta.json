@@ -612,9 +612,9 @@
     "레벨이 부족해요"
   ],
   "L10N": {
-    "LEVEL_UP": "레벨 업! %d",
+    "LEVEL_UP": "레벨 %d",
     "ACTION_TAP": "최대한 많이 화면을 터치하세요",
-    "ACTION_TOUCH": "움직이는 쥐 최대한 많이 잡으세요",
+    "ACTION_TOUCH": "움직이는 쥐를 최대한 많이 잡으세요",
     "QUEST_TITLE_PROPERTY": "능력치 %d 올리기",
     "QUEST_TITLE_ACTION": " %d번 하기",
     "QUEST_TITLE_RACE_WIN": "경묘 1등 %d번 하기",
@@ -622,7 +622,8 @@
     "QUEST_TITLE_RACE_ITEM_FRONT": "경묘 전방 공격 아이템 %d번 사용하기",
     "QUEST_TITLE_RACE_ITEM_SPEEDUP": "경묘 속업 아이템 %d번 사용하기",
     "QUEST_TITLE_RACE_ITEM_SHIELD": "경묘 방어 아이템 %d번 사용하기",
-    "QUEST_TITLE_FARM_SEED": "농사 %d번 씨 뿌리기"
+    "QUEST_TITLE_FARM_SEED": "농사 %d번 씨 뿌리기",
+    "QUEST_TITLE_FARM_HARVEST": "농사 %d번 수확하기"
   },
   "jobTitle": {
     "default": "이번생은 망했어묘",
