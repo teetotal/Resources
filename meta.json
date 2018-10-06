@@ -615,6 +615,7 @@
     "LEVEL_UP": "레벨 %d",
     "ACTION_TAP": "최대한 많이 화면을 터치하세요",
     "ACTION_TOUCH": "움직이는 쥐를 최대한 많이 잡으세요",
+    "ACTION_TIMING": "타이밍을 맞추세요",
     "QUEST_TITLE_PROPERTY": "능력치 %d 올리기",
     "QUEST_TITLE_ACTION": " %d번 하기",
     "QUEST_TITLE_RACE_WIN": "경묘 1등 %d번 하기",
