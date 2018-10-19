@@ -4,6 +4,32 @@
     "updateInterval": 1800,
     "levelWeight": 12
   },
+  "colors": [
+      {
+          "R": 95,
+          "G": 75,
+          "B": 139,
+          "name": "Ultra Violet"
+      },
+      {
+          "R": 118,
+          "G": 123,
+          "B": 165,
+          "name": "Lavender Violet"
+      },
+      {
+          "R": 156,
+          "G": 126,
+          "B": 65,
+          "name": "Bronze Mist"
+      },
+      {
+          "R": 179,
+          "G": 177,
+          "B": 123,
+          "name": "Weeping Willow"
+      }
+  ],
   "items": [        
     {
       "id": 50,
@@ -624,7 +650,9 @@
     "QUEST_TITLE_RACE_ITEM_SPEEDUP": "경묘 속업 아이템 %d번 사용하기",
     "QUEST_TITLE_RACE_ITEM_SHIELD": "경묘 방어 아이템 %d번 사용하기",
     "QUEST_TITLE_FARM_SEED": "농사 %d번 씨 뿌리기",
-    "QUEST_TITLE_FARM_HARVEST": "농사 %d번 수확하기"
+    "QUEST_TITLE_FARM_HARVEST": "농사 %d번 수확하기",
+    "ITEM_COLOR_WALL": "벽지 ",
+    "ITEM_COLOR_BOTTOM": "바닥 "
   },
   "jobTitle": {
     "default": "이번생은 망했어묘",
