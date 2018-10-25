@@ -402,6 +402,41 @@
       "type": 1000,
       "value": 0,
       "grade": 5
+    },
+    {
+      "id": 2000,
+      "name": "장난감",
+      "type": 502,
+      "value": 0,
+      "grade": 5
+    },
+    {
+      "id": 2001,
+      "name": "책장",
+      "type": 502,
+      "value": 0,
+      "grade": 5
+    },
+    {
+      "id": 2002,
+      "name": "싱크대",
+      "type": 502,
+      "value": 0,
+      "grade": 5
+    },
+    {
+      "id": 2003,
+      "name": "욕조",
+      "type": 502,
+      "value": 0,
+      "grade": 5
+    },
+    {
+      "id": 2004,
+      "name": "밥그릇",
+      "type": 502,
+      "value": 0,
+      "grade": 5
     }
   ],
   "farming": {
