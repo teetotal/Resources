@@ -437,6 +437,34 @@
       "type": 502,
       "value": 0,
       "grade": 5
+    },
+    {
+        "id": 2005,
+        "name": "보드",
+        "type": 502,
+        "value": 0,
+        "grade": 5
+    },
+    {
+        "id": 2006,
+        "name": "화분",
+        "type": 502,
+        "value": 0,
+        "grade": 5
+    },
+    {
+        "id": 2007,
+        "name": "잠자리",
+        "type": 502,
+        "value": 0,
+        "grade": 5
+    },
+    {
+        "id": 2008,
+        "name": "캣타워",
+        "type": 502,
+        "value": 0,
+        "grade": 5
     }
   ],
   "farming": {
