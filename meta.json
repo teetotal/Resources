@@ -465,6 +465,20 @@
         "type": 502,
         "value": 0,
         "grade": 5
+    },
+    {
+        "id": 3000,
+        "name": "도어",
+        "type": 503,
+        "value": 0,
+        "grade": 5
+    },
+    {
+        "id": 3001,
+        "name": "창문",
+        "type": 503,
+        "value": 0,
+        "grade": 5
     }
   ],
   "farming": {
