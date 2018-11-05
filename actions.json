@@ -24,7 +24,7 @@
 			"id": 2,
 			"name": "장판에 도장찍기 공부",
 			"type": 1,
-			"level": 1,
+			"level": 2,
 			"reward": {
 				"strength": 0,
 				"intelligence": 8,
@@ -44,7 +44,7 @@
 			"id": 3,
 			"name": "옆집 냥이와 어울리기",
 			"type": 2,
-			"level": 1,
+			"level": 3,
 			"reward": {
 				"strength": 0,
 				"intelligence": 0,
@@ -64,7 +64,7 @@
 			"id": 4,
 			"name": "집사와 함께 하는 재미난 놀이",
 			"type": 0,
-			"level": 2,
+			"level": 4,
 			"reward": {
 				"strength": 16,
 				"intelligence": 0,
@@ -84,7 +84,7 @@
 			"id": 5,
 			"name": "필살 애교 공부",
 			"type": 1,
-			"level": 2,
+			"level": 5,
 			"reward": {
 				"strength": 0,
 				"intelligence": 16,
@@ -104,7 +104,7 @@
 			"id": 6,
 			"name": "동네 잔치",
 			"type": 2,
-			"level": 2,
+			"level": 6,
 			"reward": {
 				"strength": 0,
 				"intelligence": 0,
@@ -124,7 +124,7 @@
 			"id": 7,
 			"name": "캣 타워 놀이",
 			"type": 0,
-			"level": 3,
+			"level": 7,
 			"reward": {
 				"strength": 24,
 				"intelligence": 0,
@@ -144,7 +144,7 @@
 			"id": 8,
 			"name": "경묘 필승 전략 공부",
 			"type": 1,
-			"level": 3,
+			"level": 8,
 			"reward": {
 				"strength": 0,
 				"intelligence": 24,
@@ -164,7 +164,7 @@
 			"id": 9,
 			"name": "클럽 파티",
 			"type": 2,
-			"level": 3,
+			"level": 9,
 			"reward": {
 				"strength": 0,
 				"intelligence": 0,
@@ -184,7 +184,7 @@
 			"id": 10,
 			"name": "놀이 동산 가기",
 			"type": 0,
-			"level": 4,
+			"level": 10,
 			"reward": {
 				"strength": 32,
 				"intelligence": 0,
@@ -204,7 +204,7 @@
 			"id": 11,
 			"name": "9급 공무원 입시 공부",
 			"type": 1,
-			"level": 4,
+			"level": 11,
 			"reward": {
 				"strength": 0,
 				"intelligence": 32,
@@ -224,7 +224,7 @@
 			"id": 12,
 			"name": "VIP 선상 파티",
 			"type": 2,
-			"level": 4,
+			"level": 12,
 			"reward": {
 				"strength": 0,
 				"intelligence": 0,
@@ -244,7 +244,7 @@
 			"id": 13,
 			"name": "달리기 수련",
 			"type": 3,
-			"level": 5,
+			"level": 13,
 			"reward": {
 				"strength": 20,
 				"intelligence": 20,
@@ -264,7 +264,7 @@
 			"id": 14,
 			"name": "티끌모아 티끌 알바",
 			"type": 4,
-			"level": 5,
+			"level": 14,
 			"reward": {
 				"strength": 20,
 				"intelligence": 0,
@@ -284,7 +284,7 @@
 			"id": 15,
 			"name": "민물 송사리 낚시",
 			"type": 5,
-			"level": 5,
+			"level": 15,
 			"reward": {
 				"strength": 0,
 				"intelligence": 20,
@@ -304,7 +304,7 @@
 			"id": 16,
 			"name": "노오력 수련",
 			"type": 3,
-			"level": 6,
+			"level": 16,
 			"reward": {
 				"strength": 24,
 				"intelligence": 24,
@@ -324,7 +324,7 @@
 			"id": 17,
 			"name": "최저시급 알바",
 			"type": 4,
-			"level": 6,
+			"level": 17,
 			"reward": {
 				"strength": 24,
 				"intelligence": 0,
@@ -344,7 +344,7 @@
 			"id": 18,
 			"name": "노르웨이 연어 낚시",
 			"type": 5,
-			"level": 6,
+			"level": 18,
 			"reward": {
 				"strength": 0,
 				"intelligence": 24,
@@ -364,7 +364,7 @@
 			"id": 19,
 			"name": "시간과 공간의 방 수련",
 			"type": 3,
-			"level": 7,
+			"level": 19,
 			"reward": {
 				"strength": 28,
 				"intelligence": 28,
@@ -384,7 +384,7 @@
 			"id": 20,
 			"name": "고양이 탈 알바",
 			"type": 4,
-			"level": 7,
+			"level": 20,
 			"reward": {
 				"strength": 28,
 				"intelligence": 0,
@@ -404,7 +404,7 @@
 			"id": 21,
 			"name": "알레스카 참다랑어 낚시",
 			"type": 5,
-			"level": 7,
+			"level": 21,
 			"reward": {
 				"strength": 0,
 				"intelligence": 28,
@@ -424,7 +424,7 @@
 			"id": 22,
 			"name": "삶이란 무엇인가 수련",
 			"type": 3,
-			"level": 8,
+			"level": 22,
 			"reward": {
 				"strength": 32,
 				"intelligence": 32,
@@ -444,7 +444,7 @@
 			"id": 23,
 			"name": "고양이 카페 알바",
 			"type": 4,
-			"level": 8,
+			"level": 23,
 			"reward": {
 				"strength": 32,
 				"intelligence": 0,
@@ -464,7 +464,7 @@
 			"id": 24,
 			"name": "북태평양 고래 낚시",
 			"type": 5,
-			"level": 8,
+			"level": 24,
 			"reward": {
 				"strength": 0,
 				"intelligence": 32,
@@ -484,7 +484,7 @@
 			"id": 25,
 			"name": "다람쥐 사냥",
 			"type": 6,
-			"level": 9,
+			"level": 25,
 			"reward": {
 				"strength": 24,
 				"intelligence": 24,
@@ -504,7 +504,7 @@
 			"id": 26,
 			"name": "쪼꼬미 새 사냥",
 			"type": 6,
-			"level": 10,
+			"level": 26,
 			"reward": {
 				"strength": 26,
 				"intelligence": 26,
@@ -524,7 +524,7 @@
 			"id": 27,
 			"name": "고라니 사냥",
 			"type": 6,
-			"level": 11,
+			"level": 27,
 			"reward": {
 				"strength": 29,
 				"intelligence": 29,
@@ -544,7 +544,7 @@
 			"id": 28,
 			"name": "외계인 사냥",
 			"type": 6,
-			"level": 12,
+			"level": 28,
 			"reward": {
 				"strength": 32,
 				"intelligence": 32,
