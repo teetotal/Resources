@@ -24,7 +24,7 @@
 			"id": 2,
 			"name": "장판에 도장찍기 공부",
 			"type": 1,
-			"level": 2,
+			"level": 1,
 			"reward": {
 				"strength": 0,
 				"intelligence": 8,
@@ -44,7 +44,7 @@
 			"id": 3,
 			"name": "옆집 냥이와 어울리기",
 			"type": 2,
-			"level": 3,
+			"level": 1,
 			"reward": {
 				"strength": 0,
 				"intelligence": 0,
