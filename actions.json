@@ -2,7 +2,7 @@
 	"actions": [
 		{
 			"id": 1,
-			"name": "어설픈 쥐돌이 놀이",
+			"name": "초급 순발력 훈련",
 			"type": 0,
             "grade": 1,
 			"level": 1,
@@ -590,8 +590,8 @@
 		},
         {
             "id": 100,
-            "name": "초급 순발력 훈련 1",
-            "type": 0,
+            "name": "초급 달리기 훈련 1",
+            "type": 1,
             "grade": 1,
             "level": 1,
             "reward": {
@@ -611,8 +611,8 @@
         },
         {
             "id": 101,
-            "name": "초급 순발력 훈련 2",
-            "type": 0,
+            "name": "초급 달리기 훈련 2",
+            "type": 1,
             "grade": 2,
             "level": 1,
             "reward": {
@@ -632,8 +632,8 @@
         },
         {
             "id": 102,
-            "name": "초급 순발력 훈련 3",
-            "type": 0,
+            "name": "초급 달리기 훈련 3",
+            "type": 1,
             "grade": 3,
             "level": 1,
             "reward": {
@@ -653,8 +653,8 @@
         },
         {
             "id": 103,
-            "name": "중급 순발력 훈련 1",
-            "type": 0,
+            "name": "중급 달리기 훈련 1",
+            "type": 1,
             "grade": 4,
             "level": 1,
             "reward": {
@@ -674,8 +674,8 @@
         },
         {
             "id": 104,
-            "name": "중급 순발력 훈련 2",
-            "type": 0,
+            "name": "중급 달리기 훈련 2",
+            "type": 1,
             "grade": 5,
             "level": 1,
             "reward": {
@@ -695,8 +695,8 @@
         },
         {
             "id": 105,
-            "name": "중급 순발력 훈련 3",
-            "type": 0,
+            "name": "중급 달리기 훈련 3",
+            "type": 1,
             "grade": 6,
             "level": 1,
             "reward": {
@@ -716,8 +716,8 @@
         },
         {
             "id": 106,
-            "name": "고급 순발력 훈련 1",
-            "type": 0,
+            "name": "고급 달리기 훈련 1",
+            "type": 1,
             "grade": 7,
             "level": 1,
             "reward": {
@@ -737,9 +737,30 @@
         },
         {
             "id": 107,
-            "name": "고급 순발력 훈련 2",
-            "type": 0,
+            "name": "고급 달리기 훈련 2",
+            "type": 1,
             "grade": 8,
+            "level": 1,
+            "reward": {
+                "strength": 8,
+                "intelligence": 0,
+                "appeal": 0,
+                "point": 0,
+                "items": []
+            },
+            "cost": {
+                "strength": 0,
+                "intelligence": 0,
+                "appeal": 0,
+                "point": 15,
+                "items": []
+            }
+        },
+        {
+            "id": 108,
+            "name": "고급 달리기 훈련 3",
+            "type": 1,
+            "grade": 9,
             "level": 1,
             "reward": {
                 "strength": 8,
