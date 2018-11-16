@@ -2,7 +2,7 @@
 	"actions": [
 		{
 			"id": 1,
-			"name": "초급 순발력 훈련",
+			"name": "초급 순발력 훈련 I",
 			"type": 0,
             "grade": 1,
 			"level": 1,
@@ -23,7 +23,7 @@
 		},
 		{
 			"id": 2,
-			"name": "장판에 도장찍기 공부",
+			"name": "초급 뜀박질 연습 I",
 			"type": 1,
             "grade": 1,
 			"level": 1,
@@ -65,9 +65,9 @@
 		},
 		{
 			"id": 4,
-			"name": "집사와 함께 하는 재미난 놀이",
+			"name": "초급 순발력 훈련 II",
 			"type": 0,
-            "grade": 1,
+            "grade": 2,
 			"level": 4,
 			"reward": {
 				"strength": 16,
@@ -86,9 +86,9 @@
 		},
 		{
 			"id": 5,
-			"name": "필살 애교 공부",
+			"name": "초급 뜀박질 연습 II",
 			"type": 1,
-            "grade": 1,
+            "grade": 2,
 			"level": 5,
 			"reward": {
 				"strength": 0,
@@ -128,9 +128,9 @@
 		},
 		{
 			"id": 7,
-			"name": "캣 타워 놀이",
+			"name": "초급 순발력 훈련 III",
 			"type": 0,
-            "grade": 1,
+            "grade": 3,
 			"level": 7,
 			"reward": {
 				"strength": 24,
@@ -149,9 +149,9 @@
 		},
 		{
 			"id": 8,
-			"name": "경묘 필승 전략 공부",
+			"name": "초급 뜀박질 연습 III",
 			"type": 1,
-            "grade": 1,
+            "grade": 3,
 			"level": 8,
 			"reward": {
 				"strength": 0,
@@ -191,9 +191,9 @@
 		},
 		{
 			"id": 10,
-			"name": "놀이 동산 가기",
+			"name": "중급 순발력 훈련 I",
 			"type": 0,
-            "grade": 1,
+            "grade": 4,
 			"level": 10,
 			"reward": {
 				"strength": 32,
@@ -212,9 +212,9 @@
 		},
 		{
 			"id": 11,
-			"name": "9급 공무원 입시 공부",
+			"name": "중급 뜀박질 연습 I",
 			"type": 1,
-            "grade": 1,
+            "grade": 4,
 			"level": 11,
 			"reward": {
 				"strength": 0,
@@ -254,9 +254,9 @@
 		},
 		{
 			"id": 13,
-			"name": "달리기 수련",
-			"type": 3,
-            "grade": 1,
+			"name": "중급 순발력 훈련 II",
+			"type": 0,
+            "grade": 5,
 			"level": 13,
 			"reward": {
 				"strength": 20,
@@ -275,9 +275,9 @@
 		},
 		{
 			"id": 14,
-			"name": "티끌모아 티끌 알바",
-			"type": 4,
-            "grade": 1,
+			"name": "중급 뜀박질 연습 II",
+			"type": 1,
+            "grade": 5,
 			"level": 14,
 			"reward": {
 				"strength": 20,
@@ -317,9 +317,9 @@
 		},
 		{
 			"id": 16,
-			"name": "노오력 수련",
-			"type": 3,
-            "grade": 1,
+			"name": "중급 순발력 훈련 III",
+			"type": 0,
+            "grade": 6,
 			"level": 16,
 			"reward": {
 				"strength": 24,
@@ -338,9 +338,9 @@
 		},
 		{
 			"id": 17,
-			"name": "최저시급 알바",
-			"type": 4,
-            "grade": 1,
+			"name": "중급 뜀박질 연습 III",
+			"type": 1,
+            "grade": 6,
 			"level": 17,
 			"reward": {
 				"strength": 24,
@@ -380,9 +380,9 @@
 		},
 		{
 			"id": 19,
-			"name": "시간과 공간의 방 수련",
-			"type": 3,
-            "grade": 1,
+			"name": "고급 순발력 훈련 I",
+			"type": 0,
+            "grade": 7,
 			"level": 19,
 			"reward": {
 				"strength": 28,
@@ -401,9 +401,9 @@
 		},
 		{
 			"id": 20,
-			"name": "고양이 탈 알바",
-			"type": 4,
-            "grade": 1,
+			"name": "고급 뜀박질 연습 I",
+			"type": 1,
+            "grade": 7,
 			"level": 20,
 			"reward": {
 				"strength": 28,
@@ -443,9 +443,9 @@
 		},
 		{
 			"id": 22,
-			"name": "삶이란 무엇인가 수련",
-			"type": 3,
-            "grade": 1,
+			"name": "고급 순발력 훈련 II",
+			"type": 0,
+            "grade": 8,
 			"level": 22,
 			"reward": {
 				"strength": 32,
@@ -464,9 +464,9 @@
 		},
 		{
 			"id": 23,
-			"name": "고양이 카페 알바",
-			"type": 4,
-            "grade": 1,
+			"name": "고급 뜀박질 연습 II",
+			"type": 1,
+            "grade": 8,
 			"level": 23,
 			"reward": {
 				"strength": 32,
@@ -506,9 +506,9 @@
 		},
 		{
 			"id": 25,
-			"name": "다람쥐 사냥",
-			"type": 6,
-            "grade": 1,
+			"name": "고급 순발력 훈련 III",
+			"type": 0,
+            "grade": 9,
 			"level": 25,
 			"reward": {
 				"strength": 24,
@@ -527,9 +527,9 @@
 		},
 		{
 			"id": 26,
-			"name": "쪼꼬미 새 사냥",
-			"type": 6,
-            "grade": 1,
+			"name": "고급 뜀박질 연습 III",
+			"type": 1,
+            "grade": 9,
 			"level": 26,
 			"reward": {
 				"strength": 26,
@@ -590,12 +590,12 @@
 		},
         {
             "id": 100,
-            "name": "초급 달리기 훈련 1",
+            "name": "초급 빤쓰런 I",
             "type": 1,
-            "grade": 1,
+            "grade": 10,
             "level": 1,
             "reward": {
-                "strength": 8,
+                "strength": 100,
                 "intelligence": 0,
                 "appeal": 0,
                 "point": 0,
@@ -605,19 +605,19 @@
                 "strength": 0,
                 "intelligence": 0,
                 "appeal": 0,
-                "point": 15,
+                "point": 50,
                 "items": []
             }
         },
         {
             "id": 101,
-            "name": "초급 달리기 훈련 2",
+            "name": "초급 빤쓰런 II",
             "type": 1,
-            "grade": 2,
+            "grade": 11,
             "level": 1,
             "reward": {
-                "strength": 8,
-                "intelligence": 0,
+                "strength": 0,
+                "intelligence": 100,
                 "appeal": 0,
                 "point": 0,
                 "items": []
@@ -626,20 +626,20 @@
                 "strength": 0,
                 "intelligence": 0,
                 "appeal": 0,
-                "point": 15,
+                "point": 50,
                 "items": []
             }
         },
         {
             "id": 102,
-            "name": "초급 달리기 훈련 3",
+            "name": "초급 빤쓰런 III",
             "type": 1,
-            "grade": 3,
+            "grade": 12,
             "level": 1,
             "reward": {
-                "strength": 8,
+                "strength": 0,
                 "intelligence": 0,
-                "appeal": 0,
+                "appeal": 100,
                 "point": 0,
                 "items": []
             },
@@ -647,18 +647,18 @@
                 "strength": 0,
                 "intelligence": 0,
                 "appeal": 0,
-                "point": 15,
+                "point": 50,
                 "items": []
             }
         },
         {
             "id": 103,
-            "name": "중급 달리기 훈련 1",
+            "name": "중급 빤쓰런 I",
             "type": 1,
-            "grade": 4,
+            "grade": 13,
             "level": 1,
             "reward": {
-                "strength": 8,
+                "strength": 150,
                 "intelligence": 0,
                 "appeal": 0,
                 "point": 0,
@@ -668,19 +668,19 @@
                 "strength": 0,
                 "intelligence": 0,
                 "appeal": 0,
-                "point": 15,
+                "point": 50,
                 "items": []
             }
         },
         {
             "id": 104,
-            "name": "중급 달리기 훈련 2",
+            "name": "중급 빤쓰런 II",
             "type": 1,
-            "grade": 5,
+            "grade": 14,
             "level": 1,
             "reward": {
-                "strength": 8,
-                "intelligence": 0,
+                "strength": 0,
+                "intelligence": 150,
                 "appeal": 0,
                 "point": 0,
                 "items": []
@@ -689,20 +689,20 @@
                 "strength": 0,
                 "intelligence": 0,
                 "appeal": 0,
-                "point": 15,
+                "point": 50,
                 "items": []
             }
         },
         {
             "id": 105,
-            "name": "중급 달리기 훈련 3",
+            "name": "중급 빤쓰런 III",
             "type": 1,
-            "grade": 6,
+            "grade": 15,
             "level": 1,
             "reward": {
-                "strength": 8,
+                "strength": 0,
                 "intelligence": 0,
-                "appeal": 0,
+                "appeal": 150,
                 "point": 0,
                 "items": []
             },
@@ -710,18 +710,18 @@
                 "strength": 0,
                 "intelligence": 0,
                 "appeal": 0,
-                "point": 15,
+                "point": 50,
                 "items": []
             }
         },
         {
             "id": 106,
-            "name": "고급 달리기 훈련 1",
+            "name": "고급 빤쓰런 I",
             "type": 1,
-            "grade": 7,
+            "grade": 16,
             "level": 1,
             "reward": {
-                "strength": 8,
+                "strength": 200,
                 "intelligence": 0,
                 "appeal": 0,
                 "point": 0,
@@ -731,19 +731,19 @@
                 "strength": 0,
                 "intelligence": 0,
                 "appeal": 0,
-                "point": 15,
+                "point": 50,
                 "items": []
             }
         },
         {
             "id": 107,
-            "name": "고급 달리기 훈련 2",
+            "name": "고급 빤쓰런 II",
             "type": 1,
-            "grade": 8,
+            "grade": 17,
             "level": 1,
             "reward": {
-                "strength": 8,
-                "intelligence": 0,
+                "strength": 0,
+                "intelligence": 200,
                 "appeal": 0,
                 "point": 0,
                 "items": []
@@ -752,20 +752,20 @@
                 "strength": 0,
                 "intelligence": 0,
                 "appeal": 0,
-                "point": 15,
+                "point": 50,
                 "items": []
             }
         },
         {
             "id": 108,
-            "name": "고급 달리기 훈련 3",
+            "name": "고급 빤쓰런 III",
             "type": 1,
-            "grade": 9,
+            "grade": 18,
             "level": 1,
             "reward": {
-                "strength": 8,
+                "strength": 0,
                 "intelligence": 0,
-                "appeal": 0,
+                "appeal": 200,
                 "point": 0,
                 "items": []
             },
@@ -773,7 +773,7 @@
                 "strength": 0,
                 "intelligence": 0,
                 "appeal": 0,
-                "point": 15,
+                "point": 50,
                 "items": []
             }
         }
