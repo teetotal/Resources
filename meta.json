@@ -752,7 +752,7 @@
   ],
   "L10N": {
     "LEVEL_UP": "레벨 %d",
-    "ACTION_TAP": "[초급] 별을 잡으세요 \n[중급] 장애물을 피해 별을 잡으세요 \n[고급] 장애물을 피해 터치하며 별을 잡으세요",
+    "ACTION_TAP": "장애물을 피해 별을 잡으세요",
     "ACTION_TOUCH": "움직이는 쥐를 최대한 많이 잡으세요",
     "ACTION_TIMING": "타이밍을 맞추세요",
     "QUEST_TITLE_PROPERTY": "능력치 %d 올리기",
