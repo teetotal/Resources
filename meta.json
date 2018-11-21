@@ -479,6 +479,27 @@
         "type": 503,
         "value": 0,
         "grade": 5
+    },
+    {
+        "id": 4000,
+        "name": "꽃무늬1",
+        "type": 504,
+        "value": 0,
+        "grade": 1
+    },
+    {
+        "id": 4001,
+        "name": "꽃무늬2",
+        "type": 504,
+        "value": 0,
+        "grade": 1
+    },
+    {
+        "id": 4002,
+        "name": "꽃무늬3",
+        "type": 504,
+        "value": 0,
+        "grade": 1
     }
   ],
   "farming": {
