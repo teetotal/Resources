@@ -909,7 +909,7 @@
   },
   "achievement": [    
     {
-      "uniqueId": 200,
+      "uniqueId": 200000,
       "level": 4,
       "title": "아이템 구매 1번 하기",
       "category": 1,
@@ -919,7 +919,7 @@
       "rewardValue": 1
     },   
     {
-      "uniqueId": 201,
+      "uniqueId": 200001,
       "level": 6,
       "title": "아이템 판매 1번 하기",
       "category": 2,
@@ -929,7 +929,7 @@
       "rewardValue": 1
     },
     {
-      "uniqueId": 202,
+      "uniqueId": 200002,
       "level": 6,
       "title": "아이템 구매 3번 하기",
       "category": 1,
@@ -939,7 +939,7 @@
       "rewardValue": 1
     },
     {
-      "uniqueId": 210,
+      "uniqueId": 200010,
       "level": 7,
       "title": "하트 충전 1번 하기",
       "category": 3,
@@ -949,7 +949,7 @@
       "rewardValue": 1
     },
     {
-      "uniqueId": 220,
+      "uniqueId": 200020,
       "level": 8,
       "title": "경묘 2등 3번 하기",
       "category": 6,
@@ -959,7 +959,7 @@
       "rewardValue": 1
     },
     {
-      "uniqueId": 221,
+      "uniqueId": 200021,
       "level": 11,
       "title": "경묘 Friend 모드 1번 하기",
       "category": 12,
@@ -969,7 +969,7 @@
       "rewardValue": 1
     },
     {
-      "uniqueId": 222,
+      "uniqueId": 200022,
       "level": 5,
       "title": "경묘 1vs1 모드 1번 하기",
       "category": 11,
@@ -979,7 +979,7 @@
       "rewardValue": 1
     },
     {
-      "uniqueId": 223,
+      "uniqueId": 200023,
       "level": 4,
       "title": "경묘 Speed 모드 1번 하기",
       "category": 10,
@@ -989,7 +989,7 @@
       "rewardValue": 1
     },
     {
-      "uniqueId": 224,
+      "uniqueId": 200024,
       "level": 2,
       "title": "경묘 Item 모드 1번 하기",
       "category": 9,
