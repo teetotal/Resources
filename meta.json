@@ -68,29 +68,33 @@
   ],
   "items": [        
     {
-      "id": 50,
-      "name": "제법 비싼 장난감",
+      "id": 1,
+      "name": "룰렛 이용권",
+      "category": 0,
       "type": 1,
       "value": 1,
       "grade": 3
     },
     {
-      "id": 51,
-      "name": "팔면 돈 되는 장난감",
-      "type": 1,
+      "id": 2,
+      "name": "즉석 복권",
+      "category": 0,
+      "type": 2,
       "value": 1,
       "grade": 5
     },
     {
-      "id": 99,
-      "name": "딱히 쓸데 없는 장난감",
-      "type": 1,
+      "id": 3,
+      "name": "로또",
+      "category": 0,
+      "type": 3,
       "value": 1,
-      "grade": 1
+      "grade": 10
     },
     {
       "id": 100,
       "name": "[보조식품] 파란 사과",
+      "category": 1,
       "type": 101,
       "value": 1,
       "grade": 1
@@ -98,6 +102,7 @@
     {
       "id": 101,
       "name": "[보조식품] 노란 사과",
+      "category": 1,
       "type": 101,
       "value": 2,
       "grade": 2
@@ -105,6 +110,7 @@
     {
       "id": 102,
       "name": "[보조식품] 빨간 사과",
+      "category": 1,
       "type": 101,
       "value": 3,
       "grade": 3
@@ -112,6 +118,7 @@
     {
       "id": 103,
       "name": "[보조식품] 바나나",
+      "category": 1,
       "type": 101,
       "value": 4,
       "grade": 4
@@ -119,6 +126,7 @@
     {
       "id": 104,
       "name": "[보조식품] 블루베리",
+      "category": 1,
       "type": 101,
       "value": 5,
       "grade": 5
@@ -126,6 +134,7 @@
     {
       "id": 105,
       "name": "[보조식품] 당근",
+      "category": 1,
       "type": 101,
       "value": 6,
       "grade": 6
@@ -133,6 +142,7 @@
     {
       "id": 106,
       "name": "[보조식품] 체리",
+      "category": 1,
       "type": 101,
       "value": 7,
       "grade": 7
@@ -140,6 +150,7 @@
     {
       "id": 107,
       "name": "[보조식품] 체리2",
+      "category": 1,
       "type": 101,
       "value": 8,
       "grade": 8
@@ -147,6 +158,7 @@
     {
       "id": 108,
       "name": "[보조식품] 호박",
+      "category": 1,
       "type": 101,
       "value": 9,
       "grade": 9
@@ -154,6 +166,7 @@
     {
       "id": 109,
       "name": "[보조식품] 수박",
+      "category": 1,
       "type": 101,
       "value": 10,
       "grade": 10
@@ -161,6 +174,7 @@
     {
       "id": 110,
       "name": "[보조식품] 아몰랑",
+      "category": 1,
       "type": 101,
       "value": 11,
       "grade": 11
@@ -168,6 +182,7 @@
     {
       "id": 111,
       "name": "[보조식품] 더몰랑",
+      "category": 1,
       "type": 101,
       "value": 12,
       "grade": 12
@@ -175,6 +190,7 @@
     {
       "id": 112,
       "name": "[보조식품] 포도",
+      "category": 1,
       "type": 101,
       "value": 13,
       "grade": 13
@@ -182,6 +198,7 @@
     {
       "id": 113,
       "name": "[보조식품] 뽀도",
+      "category": 1,
       "type": 101,
       "value": 14,
       "grade": 14
@@ -189,6 +206,7 @@
     {
       "id": 114,
       "name": "[보조식품] 키위",
+      "category": 1,
       "type": 101,
       "value": 15,
       "grade": 15
@@ -196,6 +214,7 @@
     {
       "id": 115,
       "name": "[보조식품] 레몬",
+      "category": 1,
       "type": 101,
       "value": 16,
       "grade": 16
@@ -203,27 +222,15 @@
     {
       "id": 116,
       "name": "[보조식품] 싸과",
+      "category": 1,
       "type": 101,
       "value": 17,
       "grade": 17
     },
     {
-      "id": 300,
-      "name": "[꾸미기] 토끼머리띠",
-      "type": 301,
-      "value": 1,
-      "grade": 1
-    },
-    {
-      "id": 301,
-      "name": "[꾸미기] 별머리띠",
-      "type": 301,
-      "value": 10,
-      "grade": 2
-    },
-    {
       "id": 400,
       "name": "[씨앗] 파란 사과 씨앗",
+      "category": 2,
       "type": 400,
       "value": 1,
       "grade": 1
@@ -231,6 +238,7 @@
     {
       "id": 401,
       "name": "[씨앗] 노란 사과 씨앗",
+      "category": 2,
       "type": 400,
       "value": 1,
       "grade": 2
@@ -238,6 +246,7 @@
     {
       "id": 402,
       "name": "[씨앗] 빨간 사과 씨앗",
+      "category": 2,
       "type": 400,
       "value": 1,
       "grade": 3
@@ -245,6 +254,7 @@
     {
       "id": 403,
       "name": "[씨앗] 바나나 씨앗",
+      "category": 2,
       "type": 400,
       "value": 1,
       "grade": 4
@@ -252,6 +262,7 @@
     {
       "id": 404,
       "name": "[씨앗] 블루베리 씨앗",
+      "category": 2,
       "type": 400,
       "value": 1,
       "grade": 5
@@ -259,6 +270,7 @@
     {
       "id": 405,
       "name": "[씨앗] 당근 씨앗",
+      "category": 2,
       "type": 400,
       "value": 1,
       "grade": 6
@@ -266,6 +278,7 @@
     {
       "id": 406,
       "name": "[씨앗] 체리 씨앗",
+      "category": 2,
       "type": 400,
       "value": 1,
       "grade": 7
@@ -273,6 +286,7 @@
     {
       "id": 407,
       "name": "[씨앗] 체리2 씨앗",
+      "category": 2,
       "type": 400,
       "value": 1,
       "grade": 8
@@ -280,6 +294,7 @@
     {
       "id": 408,
       "name": "[씨앗] 호박 씨앗",
+      "category": 2,
       "type": 400,
       "value": 1,
       "grade": 9
@@ -287,6 +302,7 @@
     {
       "id": 409,
       "name": "[씨앗] 수박 씨앗",
+      "category": 2,
       "type": 400,
       "value": 1,
       "grade": 10
@@ -294,6 +310,7 @@
     {
       "id": 410,
       "name": "[씨앗] 아몰랑 씨앗",
+      "category": 2,
       "type": 400,
       "value": 1,
       "grade": 11
@@ -301,6 +318,7 @@
     {
       "id": 411,
       "name": "[씨앗] 더몰랑 씨앗",
+      "category": 2,
       "type": 400,
       "value": 1,
       "grade": 12
@@ -308,6 +326,7 @@
     {
       "id": 412,
       "name": "[씨앗] 포도 씨앗",
+      "category": 2,
       "type": 400,
       "value": 1,
       "grade": 13
@@ -315,6 +334,7 @@
     {
       "id": 413,
       "name": "[씨앗] 뽀도 씨앗",
+      "category": 2,
       "type": 400,
       "value": 1,
       "grade": 14
@@ -322,6 +342,7 @@
     {
       "id": 414,
       "name": "[씨앗] 키위 씨앗",
+      "category": 2,
       "type": 400,
       "value": 1,
       "grade": 15
@@ -329,6 +350,7 @@
     {
       "id": 415,
       "name": "[씨앗] 레몬 씨앗",
+      "category": 2,
       "type": 400,
       "value": 1,
       "grade": 16
@@ -336,6 +358,7 @@
     {
       "id": 416,
       "name": "[씨앗] 싸과 씨앗",
+      "category": 2,
       "type": 400,
       "value": 1,
       "grade": 17
@@ -343,6 +366,7 @@
     {
       "id": 1000,
       "name": "[도감] 나뭇가지",
+      "category": 100,
       "type": 1000,
       "value": 0,
       "grade": 1
@@ -350,6 +374,7 @@
     {
       "id": 1001,
       "name": "[도감] 노랑나비",
+      "category": 100,
       "type": 1000,
       "value": 0,
       "grade": 1
@@ -357,6 +382,7 @@
     {
       "id": 1002,
       "name": "[도감] 잠자리",
+      "category": 100,
       "type": 1000,
       "value": 0,
       "grade": 1
@@ -364,6 +390,7 @@
     {
       "id": 1100,
       "name": "[도감] 할머니 신발한짝",
+      "category": 100,
       "type": 1000,
       "value": 0,
       "grade": 2
@@ -371,6 +398,7 @@
     {
       "id": 1101,
       "name": "[도감] 죽은 쥐",
+      "category": 100,
       "type": 1000,
       "value": 0,
       "grade": 2
@@ -378,6 +406,7 @@
     {
       "id": 1200,
       "name": "[도감] 18k 순금 반지",
+      "category": 100,
       "type": 1000,
       "value": 0,
       "grade": 3
@@ -385,6 +414,7 @@
     {
       "id": 1201,
       "name": "[도감] 고양이 장화",
+      "category": 100,
       "type": 1000,
       "value": 0,
       "grade": 3
@@ -392,6 +422,7 @@
     {
       "id": 1300,
       "name": "[도감] 외계인의 동전지갑",
+      "category": 100,
       "type": 1000,
       "value": 0,
       "grade": 4
@@ -399,6 +430,7 @@
     {
       "id": 1400,
       "name": "[도감] 어느 6섬 세계의 나뭇가지",
+      "category": 100,
       "type": 1000,
       "value": 0,
       "grade": 5
@@ -406,100 +438,114 @@
     {
       "id": 2000,
       "name": "장난감",
+      "category": 3,
       "type": 502,
       "value": 0,
-      "grade": 5
+      "grade": 50
     },
     {
       "id": 2001,
       "name": "책장",
+      "category": 3,
       "type": 502,
       "value": 0,
-      "grade": 5
+      "grade": 50
     },
     {
       "id": 2002,
       "name": "싱크대",
+      "category": 3,
       "type": 502,
       "value": 0,
-      "grade": 5
+      "grade": 50
     },
     {
       "id": 2003,
       "name": "욕조",
+      "category": 3,
       "type": 502,
       "value": 0,
-      "grade": 5
+      "grade": 50
     },
     {
       "id": 2004,
       "name": "밥그릇",
+      "category": 3,
       "type": 502,
       "value": 0,
-      "grade": 5
+      "grade": 50
     },
     {
         "id": 2005,
         "name": "보드",
+        "category": 3,
         "type": 502,
         "value": 0,
-        "grade": 5
+        "grade": 50
     },
     {
         "id": 2006,
         "name": "화분",
+        "category": 3,
         "type": 502,
         "value": 0,
-        "grade": 5
+        "grade": 50
     },
     {
         "id": 2007,
         "name": "잠자리",
+        "category": 3,
         "type": 502,
         "value": 0,
-        "grade": 5
+        "grade": 50
     },
     {
         "id": 2008,
         "name": "캣타워",
+        "category": 3,
         "type": 502,
         "value": 0,
-        "grade": 5
+        "grade": 50
     },
     {
         "id": 3000,
         "name": "도어",
+        "category": 3,
         "type": 503,
         "value": 0,
-        "grade": 5
+        "grade": 50
     },
     {
         "id": 3001,
         "name": "창문",
+        "category": 3,
         "type": 503,
         "value": 0,
-        "grade": 5
+        "grade": 50
     },
     {
         "id": 4000,
         "name": "꽃무늬1",
+        "category": 3,
         "type": 504,
         "value": 0,
-        "grade": 1
+        "grade": 10
     },
     {
         "id": 4001,
         "name": "꽃무늬2",
+        "category": 3,
         "type": 504,
         "value": 0,
-        "grade": 1
+        "grade": 10
     },
     {
         "id": 4002,
         "name": "꽃무늬3",
+        "category": 3,
         "type": 504,
         "value": 0,
-        "grade": 1
+        "grade": 10
     }
   ],
   "farming": {
@@ -915,7 +961,7 @@
       "category": 1,
       "id": 0,
       "value": 1,
-      "rewardId": 50,
+      "rewardId": 1,
       "rewardValue": 1
     },   
     {
@@ -925,7 +971,7 @@
       "category": 2,
       "id": 0,
       "value": 1,
-      "rewardId": 50,
+      "rewardId": 1,
       "rewardValue": 1
     },
     {
@@ -935,7 +981,7 @@
       "category": 1,
       "id": 0,
       "value": 3,
-      "rewardId": 50,
+      "rewardId": 1,
       "rewardValue": 1
     },
     {
@@ -945,7 +991,7 @@
       "category": 3,
       "id": 0,
       "value": 1,
-      "rewardId": 50,
+      "rewardId": 1,
       "rewardValue": 1
     },
     {
@@ -955,7 +1001,7 @@
       "category": 6,
       "id": 2,
       "value": 3,
-      "rewardId": 51,
+      "rewardId": 2,
       "rewardValue": 1
     },
     {
@@ -965,7 +1011,7 @@
       "category": 12,
       "id": 0,
       "value": 1,
-      "rewardId": 51,
+      "rewardId": 1,
       "rewardValue": 1
     },
     {
@@ -975,7 +1021,7 @@
       "category": 11,
       "id": 0,
       "value": 1,
-      "rewardId": 51,
+      "rewardId": 1,
       "rewardValue": 1
     },
     {
@@ -985,7 +1031,7 @@
       "category": 10,
       "id": 0,
       "value": 1,
-      "rewardId": 51,
+      "rewardId": 1,
       "rewardValue": 1
     },
     {
@@ -995,7 +1041,7 @@
       "category": 9,
       "id": 0,
       "value": 1,
-      "rewardId": 51,
+      "rewardId": 1,
       "rewardValue": 1
     }
   ]  
