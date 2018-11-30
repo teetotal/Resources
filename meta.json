@@ -2,7 +2,7 @@
   "trade": {
     "margin": 0.25,
     "updateInterval": 1800,
-    "levelWeight": 12
+    "levelWeight": 110
   },
   "colors": [
       {
@@ -832,7 +832,8 @@
     "QUEST_TITLE_FARM_SEED": "농사 %d번 씨 뿌리기",
     "QUEST_TITLE_FARM_HARVEST": "농사 %d번 수확하기",
     "ITEM_COLOR_WALL": "벽지 ",
-    "ITEM_COLOR_BOTTOM": "바닥 "
+    "ITEM_COLOR_BOTTOM": "바닥 ",
+    "MESSAGE_PLAY_BONUS": "플레이 시간 보상 지급"
   },
   "jobTitle": {
     "default": "이번생은 망했어묘",
