@@ -44,7 +44,7 @@
 		},
 		{
 			"id": 3,
-			"name": "옆집 냥이와 어울리기",
+			"name": "초급 도둑냥 잡기 I",
 			"type": 2,
             "grade": 1,
 			"level": 1,
@@ -107,9 +107,9 @@
 		},
 		{
 			"id": 6,
-			"name": "동네 잔치",
+			"name": "초급 도둑냥 잡기 II",
 			"type": 2,
-            "grade": 1,
+            "grade": 2,
 			"level": 6,
 			"reward": {
 				"strength": 0,
@@ -170,9 +170,9 @@
 		},
 		{
 			"id": 9,
-			"name": "클럽 파티",
+			"name": "초급 도둑냥 잡기 III",
 			"type": 2,
-            "grade": 1,
+            "grade": 3,
 			"level": 9,
 			"reward": {
 				"strength": 0,
@@ -233,9 +233,9 @@
 		},
 		{
 			"id": 12,
-			"name": "VIP 선상 파티",
+			"name": "중급 도둑냥 잡기 I",
 			"type": 2,
-            "grade": 1,
+            "grade": 4,
 			"level": 12,
 			"reward": {
 				"strength": 0,
@@ -296,9 +296,9 @@
 		},
 		{
 			"id": 15,
-			"name": "민물 송사리 낚시",
-			"type": 5,
-            "grade": 1,
+			"name": "중급 도둑냥 잡기 II",
+			"type": 2,
+            "grade": 5,
 			"level": 15,
 			"reward": {
 				"strength": 0,
@@ -359,9 +359,9 @@
 		},
 		{
 			"id": 18,
-			"name": "노르웨이 연어 낚시",
-			"type": 5,
-            "grade": 1,
+			"name": "중급 도둑냥 잡기 III",
+			"type": 2,
+            "grade": 6,
 			"level": 18,
 			"reward": {
 				"strength": 0,
@@ -422,9 +422,9 @@
 		},
 		{
 			"id": 21,
-			"name": "알레스카 참다랑어 낚시",
-			"type": 5,
-            "grade": 1,
+			"name": "고급 도둑냥 잡기 I",
+			"type": 2,
+            "grade": 7,
 			"level": 21,
 			"reward": {
 				"strength": 0,
@@ -485,9 +485,9 @@
 		},
 		{
 			"id": 24,
-			"name": "북태평양 고래 낚시",
-			"type": 5,
-            "grade": 1,
+			"name": "고급 도둑냥 잡기 II",
+			"type": 2,
+            "grade": 8,
 			"level": 24,
 			"reward": {
 				"strength": 0,
@@ -548,9 +548,9 @@
 		},
 		{
 			"id": 27,
-			"name": "고라니 사냥",
-			"type": 6,
-            "grade": 1,
+			"name": "고급 도둑냥 잡기 III",
+			"type": 2,
+            "grade": 9,
 			"level": 27,
 			"reward": {
 				"strength": 29,

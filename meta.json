@@ -821,7 +821,7 @@
     "LEVEL_UP": "레벨 %d",
     "ACTION_TAP": "장애물을 피해 별을 잡으세요",
     "ACTION_TOUCH": "검은 쥐를 잡으세요! 하얀 쥐 잡으면 앙대요~",
-    "ACTION_TIMING": "타이밍을 맞추세요",
+    "ACTION_TIMING": "혼란한 틈을 타 도망치는 도둑 고냥이를 잡으세요",
     "QUEST_TITLE_PROPERTY": "능력치 %d 올리기",
     "QUEST_TITLE_ACTION": " %d번 하기",
     "QUEST_TITLE_RACE_WIN": "경묘 1등 %d번 하기",
@@ -986,16 +986,6 @@
       "rewardValue": 1
     },
     {
-      "uniqueId": 200010,
-      "level": 7,
-      "title": "하트 충전 1번 하기",
-      "category": 3,
-      "id": 0,
-      "value": 1,
-      "rewardId": 1,
-      "rewardValue": 1
-    },
-    {
       "uniqueId": 200020,
       "level": 8,
       "title": "경묘 2등 3번 하기",
@@ -1006,40 +996,10 @@
       "rewardValue": 1
     },
     {
-      "uniqueId": 200021,
-      "level": 11,
-      "title": "경묘 Friend 모드 1번 하기",
-      "category": 12,
-      "id": 0,
-      "value": 1,
-      "rewardId": 1,
-      "rewardValue": 1
-    },
-    {
-      "uniqueId": 200022,
-      "level": 5,
-      "title": "경묘 1vs1 모드 1번 하기",
-      "category": 11,
-      "id": 0,
-      "value": 1,
-      "rewardId": 1,
-      "rewardValue": 1
-    },
-    {
       "uniqueId": 200023,
       "level": 4,
       "title": "경묘 Speed 모드 1번 하기",
       "category": 10,
-      "id": 0,
-      "value": 1,
-      "rewardId": 1,
-      "rewardValue": 1
-    },
-    {
-      "uniqueId": 200024,
-      "level": 2,
-      "title": "경묘 Item 모드 1번 하기",
-      "category": 9,
       "id": 0,
       "value": 1,
       "rewardId": 1,
