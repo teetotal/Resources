@@ -69,11 +69,12 @@
   "items": [        
     {
       "id": 1,
-      "name": "룰렛 이용권",
+      "name": "고냥이 복권",
       "category": 0,
       "type": 1,
       "value": 1,
-      "grade": 3
+      "grade": 3,
+      "isAdvertisementPayment": true
     },
     {
       "id": 2,
@@ -81,7 +82,8 @@
       "category": 0,
       "type": 2,
       "value": 1,
-      "grade": 5
+      "grade": 5,
+      "isAdvertisementPayment": true
     },
     {
       "id": 3,
@@ -89,7 +91,8 @@
       "category": 0,
       "type": 3,
       "value": 1,
-      "grade": 10
+      "grade": 10,
+      "isAdvertisementPayment": true
     },
     {
       "id": 100,
@@ -833,7 +836,14 @@
     "QUEST_TITLE_FARM_HARVEST": "농사 %d번 수확하기",
     "ITEM_COLOR_WALL": "벽지 ",
     "ITEM_COLOR_BOTTOM": "바닥 ",
-    "MESSAGE_PLAY_BONUS": "플레이 시간 보상 지급"
+    "MESSAGE_PLAY_BONUS": "플레이 시간 보상 지급",
+    "ADVERTISEMENT_WATCH": "광고 보기",
+    "MAINMENU_ACTION": "훈련",
+    "MAINMENU_RACE": "경묘",
+    "MAINMENU_FARM": "농사",
+    "MAINMENU_BUY": "상점",
+    "MAINMENU_SELL": "벼룩시장",
+    "MAINMENU_INVENTORY": "가방"
   },
   "jobTitle": {
     "default": "이번생은 망했어묘",
