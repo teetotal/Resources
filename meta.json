@@ -821,6 +821,9 @@
     "레벨이 부족해요"
   ],
   "L10N": {
+    "PROPERTY_S": "체력",
+    "PROPERTY_I": "지력",
+    "PROPERTY_A": "매력",
     "LEVEL_UP": "레벨 %d",
     "ACTION_TAP": "장애물을 피해 별을 잡으세요",
     "ACTION_TOUCH": "검은 쥐를 잡으세요! 하얀 쥐 잡으면 앙대요~",
