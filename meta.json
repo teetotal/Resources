@@ -367,6 +367,14 @@
       "grade": 17
     },
     {
+        "id": 430,
+        "name": "[꾸미기] 꾸미기",
+        "category": 2,
+        "type": 400,
+        "value": 1,
+        "grade": 1
+    },
+    {
       "id": 1000,
       "name": "[도감] 나뭇가지",
       "category": 100,
@@ -562,7 +570,8 @@
       "outputMax": 1,
       "timeGrow": 3,
       "cares": 1,
-      "maxOvertime": 600
+      "maxOvertime": 600,
+      "isDeco": false
     },
     {
       "id": 401,
@@ -571,7 +580,8 @@
       "outputMax": 1,
       "timeGrow": 6,
       "cares": 2,
-      "maxOvertime": 600
+      "maxOvertime": 600,
+      "isDeco": false
     },
     {
       "id": 402,
@@ -580,7 +590,8 @@
       "outputMax": 1,
       "timeGrow": 9,
       "cares": 3,
-      "maxOvertime": 600
+      "maxOvertime": 600,
+      "isDeco": false
     },
     {
       "id": 403,
@@ -589,7 +600,8 @@
       "outputMax": 1,
       "timeGrow": 15,
       "cares": 3,
-      "maxOvertime": 600
+      "maxOvertime": 600,
+      "isDeco": false
     },
     {
       "id": 404,
@@ -598,7 +610,8 @@
       "outputMax": 1,
       "timeGrow": 30,
       "cares": 3,
-      "maxOvertime": 600
+      "maxOvertime": 600,
+      "isDeco": false
     },
     {
       "id": 405,
@@ -607,7 +620,8 @@
       "outputMax": 1,
       "timeGrow": 50,
       "cares": 3,
-      "maxOvertime": 600
+      "maxOvertime": 600,
+      "isDeco": false
     },
     {
       "id": 406,
@@ -616,7 +630,8 @@
       "outputMax": 1,
       "timeGrow": 100,
       "cares": 3,
-      "maxOvertime": 600
+      "maxOvertime": 600,
+      "isDeco": false
     },
     {
       "id": 407,
@@ -625,7 +640,8 @@
       "outputMax": 1,
       "timeGrow": 140,
       "cares": 3,
-      "maxOvertime": 600
+      "maxOvertime": 600,
+      "isDeco": false
     },
     {
       "id": 408,
@@ -634,7 +650,8 @@
       "outputMax": 1,
       "timeGrow": 180,
       "cares": 3,
-      "maxOvertime": 1600
+      "maxOvertime": 1600,
+      "isDeco": false
     },
     {
       "id": 409,
@@ -643,7 +660,8 @@
       "outputMax": 1,
       "timeGrow": 200,
       "cares": 3,
-      "maxOvertime": 1800
+      "maxOvertime": 1800,
+      "isDeco": false
     },
     {
       "id": 410,
@@ -652,7 +670,8 @@
       "outputMax": 1,
       "timeGrow": 240,
       "cares": 3,
-      "maxOvertime": 2000
+      "maxOvertime": 2000,
+      "isDeco": false
     },
     {
       "id": 411,
@@ -661,7 +680,8 @@
       "outputMax": 1,
       "timeGrow": 280,
       "cares": 3,
-      "maxOvertime": 2600
+      "maxOvertime": 2600,
+      "isDeco": false
     },
     {
       "id": 412,
@@ -670,7 +690,8 @@
       "outputMax": 1,
       "timeGrow": 300,
       "cares": 3,
-      "maxOvertime": 2800
+      "maxOvertime": 2800,
+      "isDeco": false
     },
     {
       "id": 413,
@@ -679,7 +700,8 @@
       "outputMax": 1,
       "timeGrow": 340,
       "cares": 3,
-      "maxOvertime": 2800
+      "maxOvertime": 2800,
+      "isDeco": false
     },
     {
       "id": 414,
@@ -688,7 +710,8 @@
       "outputMax": 1,
       "timeGrow": 400,
       "cares": 3,
-      "maxOvertime": 3600
+      "maxOvertime": 3600,
+      "isDeco": false
     },
     {
       "id": 415,
@@ -697,7 +720,18 @@
       "outputMax": 1,
       "timeGrow": 440,
       "cares": 3,
-      "maxOvertime": 4600
+      "maxOvertime": 4600,
+      "isDeco": false
+    },
+    {
+        "id": 430,
+        "name": "deco1",
+        "farmProductId": 430,
+        "outputMax": 1,
+        "timeGrow": 1,
+        "cares": 0,
+        "maxOvertime": 0,
+        "isDeco": true
     }
   ],
   "race": [
