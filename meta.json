@@ -368,7 +368,23 @@
     },
     {
         "id": 430,
-        "name": "[꾸미기] 꾸미기",
+        "name": "[꾸미기] 꾸미기1",
+        "category": 2,
+        "type": 400,
+        "value": 1,
+        "grade": 1
+    },
+    {
+        "id": 431,
+        "name": "[꾸미기] 꾸미기2",
+        "category": 2,
+        "type": 400,
+        "value": 1,
+        "grade": 1
+    },
+    {
+        "id": 432,
+        "name": "[꾸미기] 꾸미기3",
         "category": 2,
         "type": 400,
         "value": 1,
@@ -727,6 +743,26 @@
         "id": 430,
         "name": "deco1",
         "farmProductId": 430,
+        "outputMax": 1,
+        "timeGrow": 1,
+        "cares": 0,
+        "maxOvertime": 0,
+        "isDeco": true
+    },
+    {
+        "id": 431,
+        "name": "deco2",
+        "farmProductId": 431,
+        "outputMax": 1,
+        "timeGrow": 1,
+        "cares": 0,
+        "maxOvertime": 0,
+        "isDeco": true
+    },
+    {
+        "id": 432,
+        "name": "deco3",
+        "farmProductId": 432,
         "outputMax": 1,
         "timeGrow": 1,
         "cares": 0,
