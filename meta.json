@@ -916,7 +916,8 @@
     "MAINMENU_FARM": "농사",
     "MAINMENU_BUY": "상점",
     "MAINMENU_SELL": "벼룩시장",
-    "MAINMENU_INVENTORY": "가방"
+    "MAINMENU_INVENTORY": "가방",
+    "FARM_TILLAGE": "제거"
   },
   "jobTitle": {
     "default": "이번생은 망했어묘",
