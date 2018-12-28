@@ -891,6 +891,9 @@
     "레벨이 부족해요"
   ],
   "L10N": {
+    "CANCEL": "취소",
+    "CLOSE": "닫기",
+    "EXTEND": "확장",
     "PROPERTY_S": "체력",
     "PROPERTY_I": "지력",
     "PROPERTY_A": "매력",
@@ -917,7 +920,10 @@
     "MAINMENU_BUY": "상점",
     "MAINMENU_SELL": "벼룩시장",
     "MAINMENU_INVENTORY": "가방",
-    "FARM_TILLAGE": "제거"
+    "FARM_TILLAGE": "제거",
+    "FARM_DECO": "장식",
+    "FARM_EXTEND": "으로 확장하기",
+    "FARM_EXTEND_FAILURE": "포인트가 부족해요"
   },
   "jobTitle": {
     "default": "이번생은 망했어묘",
