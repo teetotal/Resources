@@ -7,8 +7,8 @@
             "grade": 1,
 			"level": 1,
 			"reward": {
-				"strength": 8,
-				"intelligence": 0,
+				"strength": 0,
+				"intelligence": 8,
 				"appeal": 0,
 				"point": 0,
 				"items": []
@@ -28,8 +28,8 @@
             "grade": 1,
 			"level": 1,
 			"reward": {
-				"strength": 0,
-				"intelligence": 8,
+				"strength": 8,
+				"intelligence": 0,
 				"appeal": 0,
 				"point": 0,
 				"items": []
@@ -70,8 +70,8 @@
             "grade": 2,
 			"level": 4,
 			"reward": {
-				"strength": 16,
-				"intelligence": 0,
+				"strength": 0,
+				"intelligence": 16,
 				"appeal": 0,
 				"point": 0,
 				"items": []
@@ -91,8 +91,8 @@
             "grade": 2,
 			"level": 5,
 			"reward": {
-				"strength": 0,
-				"intelligence": 16,
+				"strength": 16,
+				"intelligence": 0,
 				"appeal": 0,
 				"point": 0,
 				"items": []
@@ -133,8 +133,8 @@
             "grade": 3,
 			"level": 7,
 			"reward": {
-				"strength": 24,
-				"intelligence": 0,
+				"strength": 0,
+				"intelligence": 24,
 				"appeal": 0,
 				"point": 0,
 				"items": []
@@ -154,8 +154,8 @@
             "grade": 3,
 			"level": 8,
 			"reward": {
-				"strength": 0,
-				"intelligence": 24,
+				"strength": 24,
+				"intelligence": 0,
 				"appeal": 0,
 				"point": 0,
 				"items": []
@@ -196,8 +196,8 @@
             "grade": 4,
 			"level": 10,
 			"reward": {
-				"strength": 32,
-				"intelligence": 0,
+				"strength": 0,
+				"intelligence": 32,
 				"appeal": 0,
 				"point": 0,
 				"items": []
@@ -217,8 +217,8 @@
             "grade": 4,
 			"level": 11,
 			"reward": {
-				"strength": 0,
-				"intelligence": 32,
+				"strength": 32,
+				"intelligence": 0,
 				"appeal": 0,
 				"point": 0,
 				"items": []
@@ -260,8 +260,8 @@
 			"level": 13,
 			"reward": {
 				"strength": 20,
-				"intelligence": 20,
-				"appeal": 0,
+				"intelligence": 0,
+				"appeal": 20,
 				"point": 0,
 				"items": []
 			},
@@ -281,8 +281,8 @@
 			"level": 14,
 			"reward": {
 				"strength": 20,
-				"intelligence": 0,
-				"appeal": 20,
+				"intelligence": 20,
+				"appeal": 0,
 				"point": 0,
 				"items": []
 			},
@@ -323,8 +323,8 @@
 			"level": 16,
 			"reward": {
 				"strength": 24,
-				"intelligence": 24,
-				"appeal": 0,
+				"intelligence": 0,
+				"appeal": 24,
 				"point": 0,
 				"items": []
 			},
@@ -344,8 +344,8 @@
 			"level": 17,
 			"reward": {
 				"strength": 24,
-				"intelligence": 0,
-				"appeal": 24,
+				"intelligence": 24,
+				"appeal": 0,
 				"point": 0,
 				"items": []
 			},
@@ -386,8 +386,8 @@
 			"level": 19,
 			"reward": {
 				"strength": 28,
-				"intelligence": 28,
-				"appeal": 0,
+				"intelligence": 0,
+				"appeal": 28,
 				"point": 0,
 				"items": []
 			},
@@ -407,8 +407,8 @@
 			"level": 20,
 			"reward": {
 				"strength": 28,
-				"intelligence": 0,
-				"appeal": 28,
+				"intelligence": 28,
+				"appeal": 0,
 				"point": 0,
 				"items": []
 			},
@@ -449,8 +449,8 @@
 			"level": 22,
 			"reward": {
 				"strength": 32,
-				"intelligence": 32,
-				"appeal": 0,
+				"intelligence": 0,
+				"appeal": 32,
 				"point": 0,
 				"items": []
 			},
@@ -470,8 +470,8 @@
 			"level": 23,
 			"reward": {
 				"strength": 32,
-				"intelligence": 0,
-				"appeal": 32,
+				"intelligence": 32,
+				"appeal": 0,
 				"point": 0,
 				"items": []
 			},
